@@ -1,0 +1,2 @@
+E:\osvaldo\UnrealProjects\CoopGame\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\Definitions.CoopGame.h
+E:\osvaldo\UnrealProjects\CoopGame\CoopGame\Source\CoopGame\CoopGame.h
