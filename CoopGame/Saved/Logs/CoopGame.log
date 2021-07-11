@@ -786,3 +786,67 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.11-15.01.37:071][  0]LogAssetRegistry: Asset discovery search completed in 3.4463 seconds
 [2021.07.11-15.01.37:072][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
 [2021.07.11-15.01.37:090][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.07.11-15.10.58:490][954]LogSlate: Took 0.000680 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.11-15.10.58:587][954]LogSlate: Took 0.000635 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.07.11-15.11.49:904][907]Running C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="E:/osvaldo/UnrealProjects/CoopGame/CoopGame/CoopGame.uproject" -game -rocket -progress
+[2021.07.11-15.11.50:208][907]Discovering modules, targets and source code for project...
+[2021.07.11-15.11.51:918][907]Binding IntelliSense data...
+[2021.07.11-15.11.53:647][907]Binding IntelliSense data... 100%
+[2021.07.11-15.11.53:647][907]Writing project files...
+[2021.07.11-15.11.57:669][907]Writing project files... 100%
+[2021.07.11-15.11.57:783][907]Candidate modules for hot reload:
+[2021.07.11-15.11.57:783][907]  CoopGame
+[2021.07.11-15.11.57:783][907]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=CoopGame,5450 CoopGameEditor Win64 Development -Project="E:/osvaldo/UnrealProjects/CoopGame/CoopGame/CoopGame.uproject" "E:/osvaldo/UnrealProjects/CoopGame/CoopGame/CoopGame.uproject"  -IgnoreJunk]
+[2021.07.11-15.12.07:744][907]CompilerResultsLog: New page: Compilation - Jul 11, 2021, 7:12:07 AM
+[2021.07.11-15.12.07:744][907]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (E:\osvaldo\UnrealProjects\CoopGame).
+[2021.07.11-15.12.07:744][907]CompilerResultsLog: Creating makefile for CoopGameEditor (no existing makefile)
+[2021.07.11-15.12.07:744][907]CompilerResultsLog: Parsing headers for CoopGameEditor
+[2021.07.11-15.12.07:745][907]CompilerResultsLog:   Running UnrealHeaderTool "E:\osvaldo\UnrealProjects\CoopGame\CoopGame\CoopGame.uproject" "E:\osvaldo\UnrealProjects\CoopGame\CoopGame\Intermediate\Build\Win64\CoopGameEditor\Development\CoopGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Osvaldo\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.07.11-15.12.07:745][907]CompilerResultsLog: Reflection code generated for CoopGameEditor in 3.4476481 seconds
+[2021.07.11-15.12.07:745][907]CompilerResultsLog: Building CoopGameEditor...
+[2021.07.11-15.12.07:745][907]CompilerResultsLog: Using Visual Studio 2019 14.29.30037 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.11-15.12.07:745][907]CompilerResultsLog: Building 9 actions with 16 processes...
+[2021.07.11-15.12.07:745][907]CompilerResultsLog:   [1/9] SCharacter.gen.cpp
+[2021.07.11-15.12.07:745][907]CompilerResultsLog:   c1xx: error C3859: Failed to create virtual memory for PCH
+[2021.07.11-15.12.07:745][907]CompilerResultsLog:   c1xx: note: the system returned code 1455: The paging file is too small for this operation to complete.
+[2021.07.11-15.12.07:745][907]CompilerResultsLog: 
+[2021.07.11-15.12.07:745][907]CompilerResultsLog: 
+[2021.07.11-15.12.07:745][907]CompilerResultsLog:   c1xx: note: please visit https://aka.ms/pch-help for more details
+[2021.07.11-15.12.07:745][907]CompilerResultsLog:   c1xx: fatal error C1076: compiler limit: internal heap limit reached
+[2021.07.11-15.12.07:745][907]CompilerResultsLog:   [2/9] CoopGame.cpp
+[2021.07.11-15.12.07:746][907]CompilerResultsLog:   [3/9] SCharacter.cpp
+[2021.07.11-15.12.07:746][907]CompilerResultsLog:   [4/9] CoopGame.init.gen.cpp
+[2021.07.11-15.12.07:746][907]CompilerResultsLog:   [5/9] CoopGameGameModeBase.cpp
+[2021.07.11-15.12.07:746][907]CompilerResultsLog:   [6/9] CoopGameGameModeBase.gen.cpp
+[2021.07.11-15.12.07:746][907]LogMainFrame: MainFrame: Module compiling took 9.975 seconds
+[2021.07.11-15.12.07:749][907]Warning: HotReload failed, recompile failed
+[2021.07.11-15.12.07:749][907]Warning: RebindPackages failed because compilation failed.
+[2021.07.11-15.12.13:392][907]LogSlate: Window 'Message' being destroyed
+[2021.07.11-15.12.13:396][907]Message dialog closed, result: Yes, title: Message, text: Successfully added class 'SCharacter', however you must recompile the 'CoopGame' module before it will appear in the Content Browser. Failed to automatically hot reload the 'CoopGame' module.
+
+Would you like to open the Output Log to see more details?
+[2021.07.11-15.12.13:399][907]LogSlate: Window 'Add C++ Class' being destroyed
+[2021.07.11-15.12.13:418][907]LogSlate: Took 0.006756 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.07.11-15.12.16:131][216]Candidate modules for hot reload:
+[2021.07.11-15.12.16:131][216]  CoopGame
+[2021.07.11-15.12.16:131][216]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=CoopGame,8688 CoopGameEditor Win64 Development -Project="E:/osvaldo/UnrealProjects/CoopGame/CoopGame/CoopGame.uproject" "E:/osvaldo/UnrealProjects/CoopGame/CoopGame/CoopGame.uproject"  -IgnoreJunk]
+[2021.07.11-15.12.16:133][216]Warning: Starting HotReload took  0.0s.
+[2021.07.11-15.12.18:135][411]CompilerResultsLog: New page: Compilation - Jul 11, 2021, 7:12:18 AM
+[2021.07.11-15.12.18:135][411]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (E:\osvaldo\UnrealProjects\CoopGame).
+[2021.07.11-15.12.18:135][411]CompilerResultsLog: Building CoopGameEditor...
+[2021.07.11-15.12.18:135][411]CompilerResultsLog: Using Visual Studio 2019 14.29.30037 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.11-15.12.18:135][411]CompilerResultsLog: Building 4 actions with 16 processes...
+[2021.07.11-15.12.18:135][411]CompilerResultsLog:   [1/4] SCharacter.gen.cpp
+[2021.07.11-15.12.18:135][411]CompilerResultsLog:   [2/4] UE4Editor-CoopGame-8688.lib
+[2021.07.11-15.12.18:135][411]CompilerResultsLog:      Creating library E:\osvaldo\UnrealProjects\CoopGame\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\UE4Editor-CoopGame-8688.lib and object E:\osvaldo\UnrealProjects\CoopGame\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\UE4Editor-CoopGame-8688.exp
+[2021.07.11-15.12.18:136][411]CompilerResultsLog:   [3/4] UE4Editor-CoopGame-8688.dll
+[2021.07.11-15.12.18:136][411]CompilerResultsLog:      Creating library E:\osvaldo\UnrealProjects\CoopGame\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\UE4Editor-CoopGame-8688.suppressed.lib and object E:\osvaldo\UnrealProjects\CoopGame\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\UE4Editor-CoopGame-8688.suppressed.exp
+[2021.07.11-15.12.18:136][411]CompilerResultsLog:   [4/4] CoopGameEditor.target
+[2021.07.11-15.12.18:136][411]CompilerResultsLog: Total time in Parallel executor: 1.40 seconds
+[2021.07.11-15.12.18:136][411]CompilerResultsLog: Total execution time: 1.94 seconds
+[2021.07.11-15.12.18:136][411]LogMainFrame: MainFrame: Module compiling took 2.008 seconds
+[2021.07.11-15.12.18:157][411]LogClass: Could not find existing class SCharacter in package /Script/CoopGame for HotReload, assuming new class
+[2021.07.11-15.12.18:158][411]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'CoopGame' in 0.0002 seconds. Added 2 classes and 2 folders.
+[2021.07.11-15.12.18:159][411]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.07.11-15.12.18:194][411]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0072 seconds. Added 3603 classes and 861 folders.
+[2021.07.11-15.12.18:198][411]Display: HotReload took  2.1s.
