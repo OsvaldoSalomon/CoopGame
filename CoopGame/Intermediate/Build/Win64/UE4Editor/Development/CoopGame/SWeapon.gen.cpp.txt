@@ -1,0 +1,5 @@
+E:\osvaldo\UnrealProjects\CoopGame\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\Definitions.CoopGame.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+E:\osvaldo\UnrealProjects\CoopGame\CoopGame\Source\CoopGame/SWeapon.h
+E:\osvaldo\UnrealProjects\CoopGame\CoopGame\Intermediate\Build\Win64\UE4Editor\Inc\CoopGame\SWeapon.generated.h

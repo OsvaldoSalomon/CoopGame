@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\CoopGame.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{20FDDCAA-2DBC-4F62-916A-D0F98730D551}</UniqueIdentifier>
+      <UniqueIdentifier>{62EE9818-1445-49B2-A747-3F8EA0B9D6E5}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\CoopGame.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{FD4C4B55-EB5A-49E9-B6DB-1EB184591945}</UniqueIdentifier>
+      <UniqueIdentifier>{37272D4B-56E3-4305-BDBC-3BFB40B4D718}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -23,8 +23,11 @@
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
     <Filter Include="Source\CoopGame">
-      <UniqueIdentifier>{222F7494-FB10-4E8C-810E-1468A1DA3BA0}</UniqueIdentifier>
+      <UniqueIdentifier>{B638111F-5782-4519-AD5F-C740B3117B08}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\CoopGame\CoopGame.Build.cs">
       <Filter>Source\CoopGame</Filter>
@@ -45,6 +48,12 @@
       <Filter>Source\CoopGame</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\CoopGame\SCharacter.h">
+      <Filter>Source\CoopGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CoopGame\SWeapon.cpp">
+      <Filter>Source\CoopGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CoopGame\SWeapon.h">
       <Filter>Source\CoopGame</Filter>
     </ClInclude>
   </ItemGroup>
