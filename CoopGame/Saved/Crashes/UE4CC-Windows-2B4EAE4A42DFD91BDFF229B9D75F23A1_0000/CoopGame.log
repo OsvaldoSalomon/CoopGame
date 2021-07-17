@@ -1,0 +1,1633 @@
+﻿Log file open, 07/17/21 12:02:07
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: CoopGame
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.359387
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderLink
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/Osvaldo/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-10700KF CPU @ 3.80GHz, GPU: NVIDIA GeForce GTX 1650
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.07.17-16.02.08:461][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.07.17-16.02.08:461][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.07.17-16.02.08:461][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Config/Windows/Engine.ini]
+[2021.07.17-16.02.08:461][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.07.17-16.02.08:461][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Config/Windows/Engine.ini]
+[2021.07.17-16.02.08:461][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Config/Windows/Engine.ini]
+[2021.07.17-16.02.08:461][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.07.17-16.02.08:461][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.07.17-16.02.08:461][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.07.17-16.02.08:461][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.07.17-16.02.08:461][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.07.17-16.02.08:461][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.07.17-16.02.08:461][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.07.17-16.02.08:461][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.07.17-16.02.08:461][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.07.17-16.02.08:461][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.07.17-16.02.08:461][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.07.17-16.02.08:461][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.07.17-16.02.08:461][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.07.17-16.02.08:461][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.07.17-16.02.08:461][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Config/Windows/Engine.ini]
+[2021.07.17-16.02.08:461][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.07.17-16.02.08:461][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.07.17-16.02.08:461][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.07.17-16.02.08:461][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.07.17-16.02.08:461][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.07.17-16.02.08:461][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.07.17-16.02.08:461][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.07.17-16.02.08:461][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.07.17-16.02.08:461][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.07.17-16.02.08:461][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.07.17-16.02.08:461][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.07.17-16.02.08:461][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.07.17-16.02.08:461][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.07.17-16.02.08:461][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.07.17-16.02.08:461][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Config/Windows/Engine.ini]
+[2021.07.17-16.02.08:461][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Config/Windows/Engine.ini]
+[2021.07.17-16.02.08:488][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.07.17-16.02.08:488][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.07.17-16.02.08:489][  0]LogInit: Selected Device Profile: [Windows]
+[2021.07.17-16.02.08:490][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.07.17-16.02.08:490][  0]LogHAL: Display: Platform has ~ 16 GB [17077755904 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.07.17-16.02.08:490][  0]LogInit: Going up to parent DeviceProfile []
+[2021.07.17-16.02.08:490][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.07.17-16.02.08:491][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.07.17-16.02.08:492][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.07.17-16.02.08:492][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.07.17-16.02.08:492][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.07.17-16.02.08:492][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Config/Windows/Engine.ini]
+[2021.07.17-16.02.08:492][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Config/Windows/Editor.ini]
+[2021.07.17-16.02.08:493][  0]LogInit: Computer: DESKTOP-I707
+[2021.07.17-16.02.08:493][  0]LogInit: User: Osvaldo
+[2021.07.17-16.02.08:493][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.07.17-16.02.08:493][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.07.17-16.02.08:494][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.07.17-16.02.08:494][  0]LogMemory: Platform Memory Stats for Windows
+[2021.07.17-16.02.08:494][  0]LogMemory: Process Physical Memory: 135.04 MB used, 135.05 MB peak
+[2021.07.17-16.02.08:494][  0]LogMemory: Process Virtual Memory: 111.59 MB used, 111.59 MB peak
+[2021.07.17-16.02.08:494][  0]LogMemory: Physical Memory: 4788.24 MB used,  11498.38 MB free, 16286.62 MB total
+[2021.07.17-16.02.08:494][  0]LogMemory: Virtual Memory: 134202096.00 MB used,  15628.18 MB free, 134217728.00 MB total
+[2021.07.17-16.02.08:504][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.07.17-16.02.08:726][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.07.17-16.02.08:729][  0]LogInit: Using OS detected language (en-US).
+[2021.07.17-16.02.08:729][  0]LogInit: Using OS detected locale (en-US).
+[2021.07.17-16.02.08:745][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.07.17-16.02.08:994][  0]LogInit: Setting process to per monitor DPI aware
+[2021.07.17-16.02.09:017][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.07.17-16.02.09:062][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.07.17-16.02.09:062][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.07.17-16.02.11:146][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.07.17-16.02.11:146][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.07.17-16.02.11:146][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.07.17-16.02.11:146][  0]LogD3D11RHI: D3D11 adapters:
+[2021.07.17-16.02.11:249][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650' (Feature Level 11_0)
+[2021.07.17-16.02.11:249][  0]LogD3D11RHI:       3962/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.07.17-16.02.11:251][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.07.17-16.02.11:251][  0]LogD3D11RHI:       0/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.07.17-16.02.11:251][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.07.17-16.02.11:256][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.07.17-16.02.11:256][  0]LogD3D11RHI:     GPU DeviceId: 0x1f82 (for the marketing name, search the web for "GPU Device Id")
+[2021.07.17-16.02.11:256][  0]LogWindows: EnumDisplayDevices:
+[2021.07.17-16.02.11:256][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1650' (P:1 D:1)
+[2021.07.17-16.02.11:257][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1650' (P:0 D:1)
+[2021.07.17-16.02.11:258][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1650' (P:0 D:0)
+[2021.07.17-16.02.11:258][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650' (P:0 D:0)
+[2021.07.17-16.02.11:259][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.07.17-16.02.11:259][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650
+[2021.07.17-16.02.11:259][  0]LogD3D11RHI:   Driver Version: 471.11 (internal:30.0.14.7111, unified:471.11)
+[2021.07.17-16.02.11:259][  0]LogD3D11RHI:      Driver Date: 6-21-2021
+[2021.07.17-16.02.11:259][  0]LogRHI: Texture pool is 2773 MB (70% of 3962 MB)
+[2021.07.17-16.02.11:323][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.07.17-16.02.11:324][  0]LogD3D11RHI: Async texture creation enabled
+[2021.07.17-16.02.11:324][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.07.17-16.02.11:327][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061081).
+[2021.07.17-16.02.11:367][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.07.17-16.02.11:372][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.07.17-16.02.11:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.07.17-16.02.11:717][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.07.17-16.02.11:717][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.07.17-16.02.11:717][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.07.17-16.02.11:717][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.07.17-16.02.11:717][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.07.17-16.02.11:717][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.07.17-16.02.11:717][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.07.17-16.02.11:717][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.07.17-16.02.11:717][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.07.17-16.02.11:717][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.07.17-16.02.11:748][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.07.17-16.02.11:748][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.07.17-16.02.11:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.07.17-16.02.11:773][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.07.17-16.02.11:784][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.07.17-16.02.11:794][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.07.17-16.02.11:805][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.07.17-16.02.11:816][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.07.17-16.02.11:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.07.17-16.02.11:854][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.07.17-16.02.11:854][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.07.17-16.02.11:865][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.07.17-16.02.11:877][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.07.17-16.02.11:887][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.07.17-16.02.11:897][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.07.17-16.02.11:913][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.07.17-16.02.11:913][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.07.17-16.02.11:925][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.07.17-16.02.11:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.07.17-16.02.11:948][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.07.17-16.02.11:959][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.07.17-16.02.11:959][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.07.17-16.02.12:002][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.07.17-16.02.12:224][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.07.17-16.02.12:226][  0]LogShaderCompilers: Guid format shader working directory is 4 characters bigger than the processId version (E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Intermediate/Shaders/WorkingDirectory/13852/).
+[2021.07.17-16.02.12:226][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Osvaldo/AppData/Local/Temp/UnrealShaderWorkingDir/3F59814B42A9862E5B24058524BF7D39/'.
+[2021.07.17-16.02.12:227][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.07.17-16.02.12:227][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.07.17-16.02.14:573][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.07.17-16.02.14:667][  0]LogDerivedDataCache: Loaded boot cache 0.09s 77MB C:/Users/Osvaldo/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.07.17-16.02.14:667][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Osvaldo/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.07.17-16.02.14:668][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/osvaldo/UnrealProjects/CoopGame/CoopGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.07.17-16.02.14:668][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.07.17-16.02.14:668][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/osvaldo/UnrealProjects/CoopGame/CoopGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.07.17-16.02.14:668][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.07.17-16.02.14:685][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.07.17-16.02.14:685][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.07.17-16.02.14:685][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.07.17-16.02.14:700][  0]LogDerivedDataCache: Speed tests for C:/Users/Osvaldo/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.07.17-16.02.14:700][  0]LogDerivedDataCache: Display: Performance to C:/Users/Osvaldo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.26ms. RandomReadSpeed=128.53MBs, RandomWriteSpeed=226.09MBs. Assigned SpeedClass 'Local'
+[2021.07.17-16.02.14:700][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Osvaldo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.07.17-16.02.14:700][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.07.17-16.02.14:700][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.07.17-16.02.14:744][  0]LogSlate: Using FreeType 2.10.0
+[2021.07.17-16.02.14:758][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.07.17-16.02.14:796][  0]LogAssetRegistry: FAssetRegistry took 0.0053 seconds to start up
+[2021.07.17-16.02.15:082][  0]LogInit: Selected Device Profile: [Windows]
+[2021.07.17-16.02.15:082][  0]LogInit: Active device profile: [000001F152A69D00][000001F1468DAF80 49] Windows
+[2021.07.17-16.02.15:082][  0]LogInit: Profiles: [000001F152A69D00][000001F1468DAF80 49] Windows, [000001F151A76100][000001F1515B3100 49] WindowsNoEditor, [000001F152A68D00][000001F1515B7280 49] WindowsServer, [000001F151A76F00][000001F1515BB400 49] WindowsClient, [000001F152A6AA00][000001F1515BF580 49] IOS, [000001F151A74B00][000001F1468DF6C0 49] iPadAir, [000001F152A6AD00][000001F1515C3800 49] iPadAir2, [000001F152A2B000][000001F1515CFA80 49] IPadPro, [000001F152A2B100][000001F1515C7AC0 49] iPadAir3, [000001F152A69500][000001F1515D3C40 49] iPadAir4, [000001F152A2A800][000001F1515D6100 49] iPadMini2, [000001F152A6B200][000001F1515DA280 49] iPadMini3, [000001F152A29600][000001F1515DE400 49] iPadMini4, [000001F152A69200][000001F1515E2580 49] iPadMini5, [000001F152A5A900][000001F1515EA840 49] iPhone6, [000001F152A5AA00][000001F1515E6880 49] iPodTouch6, [000001F152A2B600][000001F1515F2B40 49] iPhone7, [000001F152A2B700][000001F1515EEB80 49] iPodTouch7, [000001F152A5A700][000001F1515F6D00 49] iPhone5S, [000001F152A28100][000001F1515FAE80 49] iPhone6Plus, [000001F152A59400][000001F1515FF000 49] iPhone6S, [000001F152A28700][000001F151603180 49] iPhone6SPlus, [000001F152A58200][000001F151607300 49] iPhone7Plus, [000001F152A2A600][000001F15160B480 49] iPhoneSE, [000001F152A5B000][000001F15160F600 49] iPhone8, [000001F152A2BF00][000001F1515CB740 49] iPhone8Plus, [000001F152A59C00][000001F151613880 49] iPhoneX, [000001F152A2A200][000001F1516179C0 49] iPhoneXS, [000001F152A58300][000001F15161FB40 49] iPhoneXSMax, [000001F152A2BD00][000001F151623CC0 49] iPhoneXR, [000001F152A5A800][000001F151626180 49] iPhone11, [000001F152A29D00][000001F15162A300 49] iPhone11Pro, [000001F152A5B500][000001F15162E480 49] iPhone11ProMax, [000001F152A2AC00][000001F151632600 49] iPhoneSE2, [000001F152A59300][000001F151636780 49] iPhone12Mini, [000001F152A28B00][000001F15163A900 49] iPhone12, [000001F152A5AD00][000001F15163EA80 49] iPhone12Pro, [000001F152A2B200][000001F151642C00 49] iPhone12ProMax, [000001F152A5A500][000001F151646D80 49] iPadPro105, [000001F152A2BC00][000001F15164AF00 49] iPadPro129, [000001F151A75700][000001F15164F080 49] iPadPro97, [000001F152A5B400][000001F151653200 49] iPadPro2_129, [000001F151A75F00][000001F151657380 49] iPad5, [000001F152A5A100][000001F15165B500 49] iPad6, [000001F151A74A00][000001F153671680 49] iPad7, [000001F152A5A600][000001F15161B7C0 49] iPad8, [000001F151A74100][000001F153675900 49] iPadPro11, [000001F152A59D00][000001F153679A40 49] iPadPro2_11, [000001F151A77F00][000001F15367DB80 49] iPadPro3_129, [000001F152A5AB00][000001F153685D00 49] iPadPro4_129, [000001F151A76300][000001F1536881C0 49] AppleTV, [000001F152A29700][000001F15368C340 49] AppleTV4K, [000001F151A77800][000001F1536904C0 49] TVOS, [000001F152A29900][000001F153694640 49] Mac, [000001F151A76B00][000001F1536987C0 49] MacClient, [000001F152A29A00][000001F15369C940 49] MacNoEditor, [000001F151A74200][000001F1536A0AC0 49] MacServer, [000001F152A29E00][000001F1536A4C40 49] Linux, [000001F151A74800][000001F1536A8DC0 49] LinuxAArch64, [000001F152A28C00][000001F1536ACF40 49] LinuxNoEditor, [000001F151A75D00][000001F1536B10C0 49] LinuxAArch64NoEditor, [000001F152A28800][000001F1536B5240 49] LinuxClient, [000001F151A76D00][000001F1536B93C0 49] LinuxAArch64Client, [000001F152A28F00][000001F1536BD540 49] LinuxServer, [000001F151A74F00][000001F1536C16C0 49] LinuxAArch64Server, [000001F152A28500][000001F153681800 49] Android, [000001F151A77500][000001F1536C5940 49] Android_Low, [000001F152A2B900][000001F1536C9A80 49] Android_Mid, [000001F151A77400][000001F1536CDBC0 49] Android_High, [000001F152A29200][000001F1536D5D40 49] Android_Default, [000001F151A75A00][000001F1536D8200 49] Android_Adreno4xx, [000001F152A29000][000001F1536DC380 49] Android_Adreno5xx_Low, [000001F151A74500][000001F1536E0500 49] Android_Adreno5xx, [000001F152A2BE00][000001F1536E4680 49] Android_Adreno6xx, [000001F151A77E00][000001F1536E8800 49] Android_Adreno6xx_Vulkan, [000001F152A29100][000001F1536EC980 49] Android_Mali_T6xx, [000001F151A77C00][000001F1536F0B00 49] Android_Mali_T7xx, [000001F152A2BB00][000001F1536F4C80 49] Android_Mali_T8xx, [000001F151A76500][000001F1536F8E00 49] Android_Mali_G71, [000001F152A2A300][000001F1536FCF80 49] Android_Mali_G72, [000001F151A75800][000001F153701100 49] Android_Mali_G72_Vulkan, [000001F152A2A400][000001F153705280 49] Android_Mali_G76, [000001F151A76C00][000001F153709400 49] Android_Mali_G76_Vulkan, [000001F152A29300][000001F15370D580 49] Android_Mali_G77, [000001F151A75900][000001F153711700 49] Android_Mali_G77_Vulkan, [000001F152A29500][000001F153715880 49] Android_Vulkan_SM5, [000001F151A76900][000001F1536D19C0 49] Android_PowerVR_G6xxx, [000001F152A28600][000001F153719B00 49] Android_PowerVR_GT7xxx, [000001F151A74600][000001F15371DC40 49] Android_PowerVR_GE8xxx, [000001F152A29400][000001F153724100 49] Android_PowerVR_GM9xxx, [000001F151A75500][000001F153728280 49] Android_PowerVR_GM9xxx_Vulkan, [000001F152A2AF00][000001F15372C400 49] Android_TegraK1, [000001F151A76200][000001F153730580 49] Android_Unknown_Vulkan, [000001F152A28A00][000001F153734700 49] Lumin, [000001F152A6B000][000001F153738880 49] Lumin_Desktop, [000001F152A5BA00][000001F15373CA00 49] HoloLens, 
+[2021.07.17-16.02.15:248][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.07.17-16.02.15:248][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.07.17-16.02.15:248][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.07.17-16.02.15:248][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.07.17-16.02.15:248][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.07.17-16.02.15:366][  0]LogNetVersion: CoopGame 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3367369198)
+[2021.07.17-16.02.16:525][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.07.17-16.02.16:557][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.030378 seconds
+[2021.07.17-16.02.16:561][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.07.17-16.02.16:561][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.07.17-16.02.16:561][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.07.17-16.02.17:640][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.07.17-16.02.17:649][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.07.17-16.02.17:858][  0]SourceControl: Source control is disabled
+[2021.07.17-16.02.17:858][  0]SourceControl: Source control is disabled
+[2021.07.17-16.02.17:869][  0]SourceControl: Source control is disabled
+[2021.07.17-16.02.17:877][  0]SourceControl: Source control is disabled
+[2021.07.17-16.02.17:934][  0]SourceControl: Source control is disabled
+[2021.07.17-16.02.17:951][  0]LogUProjectInfo: Found projects:
+[2021.07.17-16.02.18:460][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.07.17-16.02.18:490][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.07.17-16.02.18:490][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.07.17-16.02.18:618][  0]LogCollectionManager: Loaded 0 collections in 0.001858 seconds
+[2021.07.17-16.02.18:671][  0]LogFileCache: Scanning file cache for directory 'E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Collections/' took 0.00s
+[2021.07.17-16.02.18:671][  0]LogFileCache: Scanning file cache for directory 'E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Content/Developers/Osvaldo/Collections/' took 0.00s
+[2021.07.17-16.02.18:671][  0]LogFileCache: Scanning file cache for directory 'E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Content/Collections/' took 0.00s
+[2021.07.17-16.02.18:671][  0]LogOcInput: OculusInput pre-init called
+[2021.07.17-16.02.18:694][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.07.17-16.02.18:694][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.07.17-16.02.18:801][  0]LogEngine: Initializing Engine...
+[2021.07.17-16.02.18:803][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.07.17-16.02.18:804][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.07.17-16.02.18:806][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2021.07.17-16.02.19:035][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.07.17-16.02.19:066][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.07.17-16.02.19:069][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.07.17-16.02.19:077][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.07.17-16.02.19:077][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.07.17-16.02.19:078][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.17-16.02.19:078][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.17-16.02.19:078][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.17-16.02.19:078][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.17-16.02.19:078][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.17-16.02.19:078][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.17-16.02.19:078][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.17-16.02.19:078][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.17-16.02.19:079][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.17-16.02.19:079][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.17-16.02.19:114][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.17-16.02.19:114][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.07.17-16.02.19:226][  0]LogAudioMixer: Display: Using Audio Device LG HDR 4K (NVIDIA High Definition Audio)
+[2021.07.17-16.02.19:227][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.17-16.02.19:245][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.17-16.02.19:246][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.17-16.02.19:247][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.17-16.02.19:247][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.17-16.02.19:247][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.17-16.02.19:248][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.17-16.02.19:248][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.17-16.02.19:248][  0]LogInit: FAudioDevice initialized.
+[2021.07.17-16.02.19:248][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.07.17-16.02.19:249][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.07.17-16.02.19:289][  0]LogDerivedDataCache: Saved boot cache 0.04s 77MB C:/Users/Osvaldo/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.07.17-16.02.19:289][  0]LogInit: Texture streaming: Enabled
+[2021.07.17-16.02.19:309][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.07.17-16.02.19:316][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.07.17-16.02.19:316][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.07.17-16.02.19:321][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.07.17-16.02.19:576][  0]LogInit: Transaction tracking system initialized
+[2021.07.17-16.02.19:626][  0]BlueprintLog: New page: Editor Load
+[2021.07.17-16.02.19:808][  0]LocalizationService: Localization service is disabled
+[2021.07.17-16.02.19:869][  0]TimingProfiler: Initialize
+[2021.07.17-16.02.19:870][  0]TimingProfiler: OnSessionChanged
+[2021.07.17-16.02.19:871][  0]LoadingProfiler: Initialize
+[2021.07.17-16.02.19:871][  0]LoadingProfiler: OnSessionChanged
+[2021.07.17-16.02.19:871][  0]NetworkingProfiler: Initialize
+[2021.07.17-16.02.19:872][  0]NetworkingProfiler: OnSessionChanged
+[2021.07.17-16.02.19:872][  0]MemoryProfiler: Initialize
+[2021.07.17-16.02.19:872][  0]MemoryProfiler: OnSessionChanged
+[2021.07.17-16.02.20:252][  0]LogFileCache: Scanning file cache for directory 'E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Content/' took 0.00s
+[2021.07.17-16.02.20:252][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.07.17-16.02.20:252][  0]LogCook: Display: Mobile HDR setting 1
+[2021.07.17-16.02.20:773][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.07.17-16.02.20:780][  0]SourceControl: Source control is disabled
+[2021.07.17-16.02.20:780][  0]LogUnrealEdMisc: Loading editor; pre map load, took 14.883
+[2021.07.17-16.02.20:780][  0]Cmd: MAP LOAD FILE="E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Content/Levels/Map1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.17-16.02.20:787][  0]LightingResults: New page: Lighting Build
+[2021.07.17-16.02.20:790][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.07.17-16.02.20:790][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-16.02.20:791][  0]MapCheck: New page: Map Check
+[2021.07.17-16.02.20:791][  0]LightingResults: New page: Lighting Build
+[2021.07.17-16.02.20:800][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.07.17-16.02.21:652][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map1'.
+[2021.07.17-16.02.21:653][  0]LogAIModule: Creating AISystem for world Map1
+[2021.07.17-16.02.21:677][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.17-16.02.21:685][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.07.17-16.02.21:686][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.17-16.02.21:686][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.07ms to complete.
+[2021.07.17-16.02.21:686][  0]LogFileHelpers: Loading map 'Map1' took 0.906
+[2021.07.17-16.02.21:705][  0]LogUnrealEdMisc: Total Editor Startup Time, took 15.809
+[2021.07.17-16.02.21:864][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.17-16.02.21:871][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.17-16.02.21:877][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.17-16.02.21:882][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.17-16.02.21:955][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0074 seconds. Added 3605 classes and 861 folders.
+[2021.07.17-16.02.21:963][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.07.17-16.02.21:974][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.07.17-16.02.21:974][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.17-16.02.21:974][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.17-16.02.21:974][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.07.17-16.02.21:981][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.07.17-16.02.21:981][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.17-16.02.21:981][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.07.17-16.02.21:981][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.07.17-16.02.21:986][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.07.17-16.02.21:986][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.17-16.02.21:986][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.07.17-16.02.21:986][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.07.17-16.02.21:991][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.17-16.02.21:991][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.17-16.02.21:991][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.17-16.02.21:991][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.07.17-16.02.21:996][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.07.17-16.02.21:996][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.17-16.02.21:996][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.07.17-16.02.21:996][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.07.17-16.02.22:000][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.07.17-16.02.22:000][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.17-16.02.22:000][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.07.17-16.02.22:000][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.07.17-16.02.22:006][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.07.17-16.02.22:006][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.17-16.02.22:006][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.07.17-16.02.22:006][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.07.17-16.02.22:011][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.07.17-16.02.22:011][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.17-16.02.22:011][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.07.17-16.02.22:011][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.07.17-16.02.22:017][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.07.17-16.02.22:018][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.17-16.02.22:018][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.07.17-16.02.22:018][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.07.17-16.02.22:023][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.07.17-16.02.22:023][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.17-16.02.22:023][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.07.17-16.02.22:023][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.07.17-16.02.22:027][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.07.17-16.02.22:027][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.17-16.02.22:027][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.07.17-16.02.22:027][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.07.17-16.02.22:032][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.07.17-16.02.22:032][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.17-16.02.22:032][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.07.17-16.02.22:032][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.07.17-16.02.22:036][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.17-16.02.22:036][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.17-16.02.22:036][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.17-16.02.22:036][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2021.07.17-16.02.22:041][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.07.17-16.02.22:041][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.17-16.02.22:041][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.07.17-16.02.22:041][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2021.07.17-16.02.22:045][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.07.17-16.02.22:045][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.17-16.02.22:045][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.07.17-16.02.22:045][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2021.07.17-16.02.22:050][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.07.17-16.02.22:050][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.17-16.02.22:050][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.17-16.02.22:050][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2021.07.17-16.02.22:054][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.07.17-16.02.22:054][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.17-16.02.22:054][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.07.17-16.02.22:054][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2021.07.17-16.02.22:059][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.07.17-16.02.22:059][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.17-16.02.22:059][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.07.17-16.02.22:059][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2021.07.17-16.02.22:066][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.17-16.02.22:066][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.17-16.02.22:066][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.17-16.02.22:066][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2021.07.17-16.02.22:073][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.17-16.02.22:073][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.17-16.02.22:073][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.17-16.02.22:073][  0]LogPakFile: OnPakFileMounted2Time == 0.000072
+[2021.07.17-16.02.22:078][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.07.17-16.02.22:078][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.17-16.02.22:078][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.17-16.02.22:078][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2021.07.17-16.02.22:082][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.07.17-16.02.22:082][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.17-16.02.22:082][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.07.17-16.02.22:082][  0]LogPakFile: OnPakFileMounted2Time == 0.000076
+[2021.07.17-16.02.22:086][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.07.17-16.02.22:086][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.17-16.02.22:086][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.07.17-16.02.22:086][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
+[2021.07.17-16.02.22:091][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.07.17-16.02.22:091][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.17-16.02.22:091][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.07.17-16.02.22:091][  0]LogPakFile: OnPakFileMounted2Time == 0.000082
+[2021.07.17-16.02.22:097][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.17-16.02.22:097][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.17-16.02.22:097][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.17-16.02.22:097][  0]LogPakFile: OnPakFileMounted2Time == 0.000085
+[2021.07.17-16.02.22:102][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.07.17-16.02.22:102][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.17-16.02.22:102][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.07.17-16.02.22:102][  0]LogPakFile: OnPakFileMounted2Time == 0.000088
+[2021.07.17-16.02.22:286][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.07.17-16.02.22:667][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.07.17-16.02.22:722][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.07.17-16.02.22:723][  0]LogLoad: (Engine Initialization) Total time: 16.83 seconds
+[2021.07.17-16.02.22:723][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.07.17-16.02.22:723][  0]LogInit: First time updating LLM stats...
+[2021.07.17-16.02.22:805][  0]LogAssetRegistry: Asset discovery search completed in 8.0100 seconds
+[2021.07.17-16.02.22:807][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.07.17-16.02.22:851][  0]LogRenderer: Reallocating scene render targets to support 64x64 Format 10 NumSamples 1 (Frame:1).
+[2021.07.17-16.02.22:851][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.07.17-16.02.22:867][  0]LogSlate: Took 0.006723 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.07.17-16.02.22:873][  0]LogSlate: Took 0.004945 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.07.17-16.02.22:883][  0]LogSlate: Took 0.006139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.07.17-16.02.23:356][  1]LogRenderer: Reallocating scene render targets to support 1672x836 Format 10 NumSamples 1 (Frame:1).
+[2021.07.17-16.03.57:178][281]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{9651e1ed-6e8e-43cc-aa61-462f3aa93d46}.
+[2021.07.17-16.03.57:178][281]LogAudioMixer: Resetting audio stream to device id 
+[2021.07.17-16.03.57:203][281]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.17-16.03.57:203][281]LogAudioMixer: Display: 1: FrontRight
+[2021.07.17-17.04.27:604][252]LogSlate: Took 0.004481 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.07.17-17.04.29:112][428]LogSlate: Window 'Open Project' being destroyed
+[2021.07.17-17.04.31:774][671]LogSlate: Took 0.004151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.17-17.05.17:199][205]Running C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="E:/osvaldo/UnrealProjects/CoopGame/CoopGame/CoopGame.uproject" -game -rocket -progress
+[2021.07.17-17.05.17:503][205]Discovering modules, targets and source code for project...
+[2021.07.17-17.05.19:313][205]Binding IntelliSense data...
+[2021.07.17-17.05.21:031][205]Binding IntelliSense data... 100%
+[2021.07.17-17.05.21:031][205]Writing project files...
+[2021.07.17-17.05.25:051][205]Writing project files... 100%
+[2021.07.17-17.05.25:182][205]Candidate modules for hot reload:
+[2021.07.17-17.05.25:182][205]  CoopGame
+[2021.07.17-17.05.25:182][205]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=CoopGame,2954 CoopGameEditor Win64 Development -Project="E:/osvaldo/UnrealProjects/CoopGame/CoopGame/CoopGame.uproject" "E:/osvaldo/UnrealProjects/CoopGame/CoopGame/CoopGame.uproject"  -IgnoreJunk]
+[2021.07.17-17.05.46:755][205]CompilerResultsLog: New page: Compilation - Jul 17, 2021, 9:05:46 AM
+[2021.07.17-17.05.46:755][205]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (E:\osvaldo\UnrealProjects\CoopGame).
+[2021.07.17-17.05.46:755][205]CompilerResultsLog: Creating makefile for CoopGameEditor (no existing makefile)
+[2021.07.17-17.05.46:755][205]CompilerResultsLog: Parsing headers for CoopGameEditor
+[2021.07.17-17.05.46:755][205]CompilerResultsLog:   Running UnrealHeaderTool "E:\osvaldo\UnrealProjects\CoopGame\CoopGame\CoopGame.uproject" "E:\osvaldo\UnrealProjects\CoopGame\CoopGame\Intermediate\Build\Win64\CoopGameEditor\Development\CoopGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Osvaldo\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.07.17-17.05.46:755][205]CompilerResultsLog: Reflection code generated for CoopGameEditor in 9.3428934 seconds
+[2021.07.17-17.05.46:755][205]CompilerResultsLog: Building CoopGameEditor...
+[2021.07.17-17.05.46:755][205]CompilerResultsLog: Using Visual Studio 2019 14.29.30037 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.17-17.05.46:755][205]CompilerResultsLog: Building 6 actions with 16 processes...
+[2021.07.17-17.05.46:755][205]CompilerResultsLog:   [1/6] CoopGame.init.gen.cpp
+[2021.07.17-17.05.46:755][205]CompilerResultsLog:   [2/6] SHealthComponent.cpp
+[2021.07.17-17.05.46:755][205]CompilerResultsLog:   [3/6] SHealthComponent.gen.cpp
+[2021.07.17-17.05.46:755][205]CompilerResultsLog:   [4/6] UE4Editor-CoopGame-2954.lib
+[2021.07.17-17.05.46:755][205]CompilerResultsLog:      Creating library E:\osvaldo\UnrealProjects\CoopGame\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\UE4Editor-CoopGame-2954.lib and object E:\osvaldo\UnrealProjects\CoopGame\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\UE4Editor-CoopGame-2954.exp
+[2021.07.17-17.05.46:756][205]CompilerResultsLog:   [5/6] UE4Editor-CoopGame-2954.dll
+[2021.07.17-17.05.46:756][205]CompilerResultsLog:      Creating library E:\osvaldo\UnrealProjects\CoopGame\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\UE4Editor-CoopGame-2954.suppressed.lib and object E:\osvaldo\UnrealProjects\CoopGame\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\UE4Editor-CoopGame-2954.suppressed.exp
+[2021.07.17-17.05.46:756][205]CompilerResultsLog:   [6/6] CoopGameEditor.target
+[2021.07.17-17.05.46:756][205]CompilerResultsLog: Total time in Parallel executor: 10.31 seconds
+[2021.07.17-17.05.46:756][205]CompilerResultsLog: Total execution time: 21.49 seconds
+[2021.07.17-17.05.46:756][205]LogMainFrame: MainFrame: Module compiling took 21.596 seconds
+[2021.07.17-17.05.46:815][205]LogClass: Could not find existing class SHealthComponent in package /Script/CoopGame for HotReload, assuming new class
+[2021.07.17-17.05.46:824][205]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'CoopGame' in 0.0007 seconds. Added 5 classes and 2 folders.
+[2021.07.17-17.05.46:825][205]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.07.17-17.05.46:864][205]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0092 seconds. Added 3606 classes and 861 folders.
+[2021.07.17-17.05.46:868][205]Display: HotReload took 21.7s.
+[2021.07.17-17.05.46:878][205]Warning: HotReload operation took 21.7s.
+[2021.07.17-17.05.46:908][205]LogSlate: Window 'Add C++ Class' being destroyed
+[2021.07.17-17.05.46:988][206]LogHotReload: New module detected: UE4Editor-CoopGame-2954.dll
+[2021.07.17-17.05.47:040][207]LogHotReload: Starting Hot-Reload from IDE
+[2021.07.17-17.05.47:236][207]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'CoopGame' in 0.0004 seconds. Added 5 classes and 2 folders.
+[2021.07.17-17.05.47:238][207]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.07.17-17.05.47:246][207]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0073 seconds. Added 3606 classes and 861 folders.
+[2021.07.17-17.05.47:269][207]Display: HotReload took  0.2s.
+[2021.07.17-17.10.28:309][543]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/osvaldo/Blender/MilitarDroid.fbx)
+[2021.07.17-17.10.28:332][543]LogFbx: Loading FBX Scene from E:/osvaldo/Blender/MilitarDroid.fbx
+[2021.07.17-17.10.28:336][543]LogFbx: FBX Scene Loaded Succesfully
+[2021.07.17-17.10.28:339][543]FBXImport: Warning: Can't detect import type. No mesh is found or animation track. 
+[2021.07.17-17.10.31:352][543]LogSlate: Window 'Message' being destroyed
+[2021.07.17-17.10.31:356][543]Message dialog closed, result: Ok, title: Message, text: Failed to import 'E:/osvaldo/Blender/MilitarDroid.fbx'. Failed to create asset '/Game/AnimStarterPack/MilitarDroid/MilitarDroid'.
+Please see Output Log for details.
+[2021.07.17-17.10.31:356][543]LogAssetTools: Warning: Failed to import 'E:/osvaldo/Blender/MilitarDroid.fbx'. Failed to create asset '/Game/AnimStarterPack/MilitarDroid/MilitarDroid'.
+Please see Output Log for details.
+[2021.07.17-17.10.31:379][543]LogSlate: Took 0.005644 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.07.17-17.10.34:806][946]LogSlate: Window 'Message Log' being destroyed
+[2021.07.17-17.10.34:810][946]LogSlate: Window 'Message Log' being destroyed
+[2021.07.17-17.15.48:555][684]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/osvaldo/Blender/MilitarDroid.fbx)
+[2021.07.17-17.15.48:560][684]LogFbx: Loading FBX Scene from E:/osvaldo/Blender/MilitarDroid.fbx
+[2021.07.17-17.15.48:563][684]LogFbx: FBX Scene Loaded Succesfully
+[2021.07.17-17.15.48:565][684]FBXImport: Warning: Can't detect import type. No mesh is found or animation track. 
+[2021.07.17-17.15.53:017][684]LogSlate: Window 'Message' being destroyed
+[2021.07.17-17.15.53:021][684]Message dialog closed, result: Ok, title: Message, text: Failed to import 'E:/osvaldo/Blender/MilitarDroid.fbx'. Failed to create asset '/Game/AnimStarterPack/MilitarDroid/MilitarDroid'.
+Please see Output Log for details.
+[2021.07.17-17.15.53:022][684]LogAssetTools: Warning: Failed to import 'E:/osvaldo/Blender/MilitarDroid.fbx'. Failed to create asset '/Game/AnimStarterPack/MilitarDroid/MilitarDroid'.
+Please see Output Log for details.
+[2021.07.17-17.15.55:362][958]LogSlate: Window 'Message Log' being destroyed
+[2021.07.17-17.15.55:365][958]LogSlate: Window 'Message Log' being destroyed
+[2021.07.17-17.16.00:571][263]LogRenderer: Reallocating scene render targets to support 1676x836 Format 10 NumSamples 1 (Frame:5705).
+[2021.07.17-17.16.00:643][263]LogRenderer: Reallocating scene render targets to support 1680x836 Format 10 NumSamples 1 (Frame:5706).
+[2021.07.17-17.16.35:489][753]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/osvaldo/Blender/MilitarDroid.fbx)
+[2021.07.17-17.16.35:495][753]LogFbx: Loading FBX Scene from E:/osvaldo/Blender/MilitarDroid.fbx
+[2021.07.17-17.16.35:498][753]LogFbx: FBX Scene Loaded Succesfully
+[2021.07.17-17.16.35:499][753]FBXImport: Warning: Can't detect import type. No mesh is found or animation track. 
+[2021.07.17-17.16.38:892][753]LogSlate: Window 'Message' being destroyed
+[2021.07.17-17.16.38:897][753]Message dialog closed, result: Ok, title: Message, text: Failed to import 'E:/osvaldo/Blender/MilitarDroid.fbx'. Failed to create asset '/Game/AnimStarterPack/MilitarDroid'.
+Please see Output Log for details.
+[2021.07.17-17.16.38:897][753]LogAssetTools: Warning: Failed to import 'E:/osvaldo/Blender/MilitarDroid.fbx'. Failed to create asset '/Game/AnimStarterPack/MilitarDroid'.
+Please see Output Log for details.
+[2021.07.17-17.18.17:033][350]LogSlate: Window 'Message Log' being destroyed
+[2021.07.17-17.18.17:037][350]LogSlate: Window 'Message Log' being destroyed
+[2021.07.17-17.18.24:177][596]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/osvaldo/Blender/MilitarDroid.fbx)
+[2021.07.17-17.18.24:182][596]LogFbx: Loading FBX Scene from E:/osvaldo/Blender/MilitarDroid.fbx
+[2021.07.17-17.18.24:196][596]LogFbx: FBX Scene Loaded Succesfully
+[2021.07.17-17.18.31:939][596]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.07.17-17.18.31:990][596]LogMaterial: Display: Missing cached shader map for material base, compiling. 
+[2021.07.17-17.18.32:015][596]LogFbx: Display: Triangulating static mesh base
+[2021.07.17-17.18.32:036][596]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 12
+[2021.07.17-17.18.32:037][596]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2021.07.17-17.18.32:037][596]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2021.07.17-17.18.32:037][596]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2021.07.17-17.18.32:037][596]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2021.07.17-17.18.32:037][596]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2
+[2021.07.17-17.18.32:037][596]LogStaticMesh: Building static mesh MilitarDroid_base...
+[2021.07.17-17.18.32:054][596]LogStaticMesh: Built static mesh [0.02s] /Game/AnimStarterPack/MilitarDroid_base.MilitarDroid_base
+[2021.07.17-17.18.32:077][596]LogMaterial: Display: Missing cached shader map for material armor, compiling. 
+[2021.07.17-17.18.32:085][596]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 12
+[2021.07.17-17.18.32:085][596]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 10
+[2021.07.17-17.18.32:086][596]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 8
+[2021.07.17-17.18.32:086][596]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 6
+[2021.07.17-17.18.32:086][596]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2021.07.17-17.18.32:086][596]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2021.07.17-17.18.32:086][596]LogFbx: Display: Triangulating static mesh head
+[2021.07.17-17.18.32:089][596]LogStaticMesh: Building static mesh MilitarDroid_head...
+[2021.07.17-17.18.32:097][596]LogStaticMesh: Built static mesh [0.01s] /Game/AnimStarterPack/MilitarDroid_head.MilitarDroid_head
+[2021.07.17-17.18.32:102][596]LogMaterial: Display: Missing cached shader map for material visor, compiling. 
+[2021.07.17-17.18.32:108][596]LogFbx: Display: Triangulating static mesh visor
+[2021.07.17-17.18.32:110][596]LogStaticMesh: Building static mesh MilitarDroid_visor...
+[2021.07.17-17.18.32:110][596]LogStaticMesh: Built static mesh [0.00s] /Game/AnimStarterPack/MilitarDroid_visor.MilitarDroid_visor
+[2021.07.17-17.18.32:113][596]LogMaterial: Display: Missing cached shader map for material armor_2, compiling. 
+[2021.07.17-17.18.32:121][596]LogFbx: Display: Triangulating static mesh neck collar
+[2021.07.17-17.18.32:126][596]LogStaticMesh: Building static mesh MilitarDroid_neck_collar...
+[2021.07.17-17.18.32:130][596]LogStaticMesh: Built static mesh [0.00s] /Game/AnimStarterPack/MilitarDroid_neck_collar.MilitarDroid_neck_collar
+[2021.07.17-17.18.32:134][596]LogFbx: Display: Triangulating static mesh chest plate
+[2021.07.17-17.18.32:139][596]LogStaticMesh: Building static mesh MilitarDroid_chest_plate...
+[2021.07.17-17.18.32:141][596]LogStaticMesh: Built static mesh [0.00s] /Game/AnimStarterPack/MilitarDroid_chest_plate.MilitarDroid_chest_plate
+[2021.07.17-17.18.32:142][596]LogStaticMesh: Warning: MilitarDroid_chest_plate has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.07.17-17.18.32:142][596]LogStaticMesh: Warning: MilitarDroid_chest_plate has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.07.17-17.18.32:146][596]LogMaterial: Display: Missing cached shader map for material equipment, compiling. 
+[2021.07.17-17.18.32:155][596]LogFbx: Display: Triangulating static mesh bags.002
+[2021.07.17-17.18.32:177][596]LogStaticMesh: Building static mesh MilitarDroid_bags_002...
+[2021.07.17-17.18.32:182][596]LogStaticMesh: Built static mesh [0.01s] /Game/AnimStarterPack/MilitarDroid_bags_002.MilitarDroid_bags_002
+[2021.07.17-17.18.32:186][596]LogFbx: Display: Triangulating static mesh backpack
+[2021.07.17-17.18.32:191][596]LogStaticMesh: Building static mesh MilitarDroid_backpack...
+[2021.07.17-17.18.32:193][596]LogStaticMesh: Built static mesh [0.00s] /Game/AnimStarterPack/MilitarDroid_backpack.MilitarDroid_backpack
+[2021.07.17-17.18.32:193][596]LogStaticMesh: Warning: MilitarDroid_backpack has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.07.17-17.18.32:194][596]LogStaticMesh: Warning: MilitarDroid_backpack has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.07.17-17.18.32:197][596]LogFbx: Display: Triangulating static mesh wire
+[2021.07.17-17.18.32:200][596]LogStaticMesh: Building static mesh MilitarDroid_wire...
+[2021.07.17-17.18.32:202][596]LogStaticMesh: Built static mesh [0.00s] /Game/AnimStarterPack/MilitarDroid_wire.MilitarDroid_wire
+[2021.07.17-17.18.32:203][596]LogStaticMesh: Warning: MilitarDroid_wire has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.07.17-17.18.32:203][596]LogStaticMesh: Warning: MilitarDroid_wire has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.07.17-17.18.32:206][596]LogFbx: Display: Triangulating static mesh shoulderplate.001
+[2021.07.17-17.18.32:210][596]LogStaticMesh: Building static mesh MilitarDroid_shoulderplate_001...
+[2021.07.17-17.18.32:217][596]LogStaticMesh: Built static mesh [0.01s] /Game/AnimStarterPack/MilitarDroid_shoulderplate_001.MilitarDroid_shoulderplate_001
+[2021.07.17-17.18.32:220][596]LogFbx: Display: Triangulating static mesh bags
+[2021.07.17-17.18.32:222][596]LogStaticMesh: Building static mesh MilitarDroid_bags...
+[2021.07.17-17.18.32:226][596]LogStaticMesh: Built static mesh [0.00s] /Game/AnimStarterPack/MilitarDroid_bags.MilitarDroid_bags
+[2021.07.17-17.18.32:229][596]LogFbx: Display: Triangulating static mesh gernades
+[2021.07.17-17.18.32:255][596]LogStaticMesh: Building static mesh MilitarDroid_gernades...
+[2021.07.17-17.18.32:263][596]LogStaticMesh: Built static mesh [0.01s] /Game/AnimStarterPack/MilitarDroid_gernades.MilitarDroid_gernades
+[2021.07.17-17.18.32:267][596]LogFbx: Display: Triangulating static mesh bags.001
+[2021.07.17-17.18.32:270][596]LogStaticMesh: Building static mesh MilitarDroid_bags_001...
+[2021.07.17-17.18.32:273][596]LogStaticMesh: Built static mesh [0.00s] /Game/AnimStarterPack/MilitarDroid_bags_001.MilitarDroid_bags_001
+[2021.07.17-17.18.32:276][596]LogFbx: Display: Triangulating static mesh shoulderplate
+[2021.07.17-17.18.32:280][596]LogStaticMesh: Building static mesh MilitarDroid_shoulderplate...
+[2021.07.17-17.18.32:286][596]LogStaticMesh: Built static mesh [0.01s] /Game/AnimStarterPack/MilitarDroid_shoulderplate.MilitarDroid_shoulderplate
+[2021.07.17-17.18.32:289][596]LogFbx: Display: Triangulating static mesh thighs
+[2021.07.17-17.18.32:295][596]LogStaticMesh: Building static mesh MilitarDroid_thighs...
+[2021.07.17-17.18.32:304][596]LogStaticMesh: Built static mesh [0.01s] /Game/AnimStarterPack/MilitarDroid_thighs.MilitarDroid_thighs
+[2021.07.17-17.18.32:308][596]LogFbx: Display: Triangulating static mesh chest
+[2021.07.17-17.18.32:311][596]LogStaticMesh: Building static mesh MilitarDroid_chest...
+[2021.07.17-17.18.32:315][596]LogStaticMesh: Built static mesh [0.00s] /Game/AnimStarterPack/MilitarDroid_chest.MilitarDroid_chest
+[2021.07.17-17.18.32:318][596]LogFbx: Display: Triangulating static mesh wrist
+[2021.07.17-17.18.32:324][596]LogStaticMesh: Building static mesh MilitarDroid_wrist...
+[2021.07.17-17.18.32:327][596]LogStaticMesh: Built static mesh [0.00s] /Game/AnimStarterPack/MilitarDroid_wrist.MilitarDroid_wrist
+[2021.07.17-17.18.32:331][596]LogFbx: Display: Triangulating static mesh boots
+[2021.07.17-17.18.32:337][596]LogStaticMesh: Building static mesh MilitarDroid_boots...
+[2021.07.17-17.18.32:342][596]LogStaticMesh: Built static mesh [0.01s] /Game/AnimStarterPack/MilitarDroid_boots.MilitarDroid_boots
+[2021.07.17-17.18.32:346][596]LogFbx: Display: Triangulating static mesh waist
+[2021.07.17-17.18.32:349][596]LogStaticMesh: Building static mesh MilitarDroid_waist...
+[2021.07.17-17.18.32:354][596]LogStaticMesh: Built static mesh [0.00s] /Game/AnimStarterPack/MilitarDroid_waist.MilitarDroid_waist
+[2021.07.17-17.18.32:378][596]FBXImport: Warning: MilitarDroid_chest_plate has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.07.17-17.18.32:378][596]FBXImport: Warning: MilitarDroid_chest_plate has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.07.17-17.18.32:378][596]FBXImport: Warning: MilitarDroid_backpack has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.07.17-17.18.32:378][596]FBXImport: Warning: MilitarDroid_backpack has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.07.17-17.18.32:379][596]FBXImport: Warning: MilitarDroid_wire has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.07.17-17.18.32:379][596]FBXImport: Warning: MilitarDroid_wire has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.07.17-17.18.33:616][659]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 36
+[2021.07.17-17.18.33:629][660]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 32
+[2021.07.17-17.18.33:868][674]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 29
+[2021.07.17-17.18.33:889][675]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 26
+[2021.07.17-17.18.34:110][690]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 23
+[2021.07.17-17.18.34:141][692]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 21
+[2021.07.17-17.18.34:206][697]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 19
+[2021.07.17-17.18.34:279][703]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 17
+[2021.07.17-17.18.34:345][708]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 15
+[2021.07.17-17.18.34:372][709]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 13
+[2021.07.17-17.18.34:372][709]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 11
+[2021.07.17-17.18.34:372][709]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 9
+[2021.07.17-17.18.35:121][759]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 8
+[2021.07.17-17.18.35:167][762]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2021.07.17-17.18.35:394][777]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2021.07.17-17.18.35:478][783]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2021.07.17-17.18.35:491][784]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2021.07.17-17.18.35:532][787]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2021.07.17-17.18.35:592][792]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2021.07.17-17.18.35:592][792]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2021.07.17-17.18.36:844][925]LogSlate: Window 'Message Log' being destroyed
+[2021.07.17-17.18.36:848][925]LogSlate: Window 'Message Log' being destroyed
+[2021.07.17-17.18.38:572][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.07.17-17.18.38:581][ 50]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Map1' took 0.016
+[2021.07.17-17.18.38:582][ 50]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimStarterPack/MilitarDroid_boots] ([1] browsable assets)...
+[2021.07.17-17.18.38:592][ 50]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AnimStarterPack/MilitarDroid_boots.MilitarDroid_boots]
+[2021.07.17-17.18.38:592][ 50]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/MilitarDroid_boots]
+[2021.07.17-17.18.38:603][ 50]LogSavePackage: Moving 'E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/MilitarDroid_boots_Auto183EE78104444B6126BB29D8CBBE38CFF.tmp' to 'E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Autosaves/Game/AnimStarterPack/MilitarDroid_boots_Auto1.uasset'
+[2021.07.17-17.18.38:606][ 50]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimStarterPack/MilitarDroid_waist] ([1] browsable assets)...
+[2021.07.17-17.18.38:613][ 50]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AnimStarterPack/MilitarDroid_waist.MilitarDroid_waist]
+[2021.07.17-17.18.38:613][ 50]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/MilitarDroid_waist]
+[2021.07.17-17.18.38:618][ 50]LogSavePackage: Moving 'E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/MilitarDroid_waist_Auto19E1A18D04B1FA5E9365C7D992C468371.tmp' to 'E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Autosaves/Game/AnimStarterPack/MilitarDroid_waist_Auto1.uasset'
+[2021.07.17-17.18.38:618][ 50]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimStarterPack/MilitarDroid_base] ([1] browsable assets)...
+[2021.07.17-17.18.38:625][ 50]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AnimStarterPack/MilitarDroid_base.MilitarDroid_base]
+[2021.07.17-17.18.38:625][ 50]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/MilitarDroid_base]
+[2021.07.17-17.18.38:632][ 50]LogSavePackage: Moving 'E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/MilitarDroid_base_Auto12B36E23B4A443246377D87BE5AC62561.tmp' to 'E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Autosaves/Game/AnimStarterPack/MilitarDroid_base_Auto1.uasset'
+[2021.07.17-17.18.38:633][ 50]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimStarterPack/MilitarDroid_head] ([1] browsable assets)...
+[2021.07.17-17.18.38:640][ 50]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AnimStarterPack/MilitarDroid_head.MilitarDroid_head]
+[2021.07.17-17.18.38:640][ 50]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/MilitarDroid_head]
+[2021.07.17-17.18.38:645][ 50]LogSavePackage: Moving 'E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/MilitarDroid_head_Auto1AC2B309E4347717E577ED8A3B5CF6C4B.tmp' to 'E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Autosaves/Game/AnimStarterPack/MilitarDroid_head_Auto1.uasset'
+[2021.07.17-17.18.38:645][ 50]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimStarterPack/MilitarDroid_visor] ([1] browsable assets)...
+[2021.07.17-17.18.38:653][ 50]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AnimStarterPack/MilitarDroid_visor.MilitarDroid_visor]
+[2021.07.17-17.18.38:653][ 50]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/MilitarDroid_visor]
+[2021.07.17-17.18.38:657][ 50]LogSavePackage: Moving 'E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/MilitarDroid_visor_Auto1EED822F04BFC2C8C328AA08A6D349D79.tmp' to 'E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Autosaves/Game/AnimStarterPack/MilitarDroid_visor_Auto1.uasset'
+[2021.07.17-17.18.38:658][ 50]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimStarterPack/MilitarDroid_neck_collar] ([1] browsable assets)...
+[2021.07.17-17.18.38:665][ 50]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AnimStarterPack/MilitarDroid_neck_collar.MilitarDroid_neck_collar]
+[2021.07.17-17.18.38:665][ 50]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/MilitarDroid_neck_collar]
+[2021.07.17-17.18.38:670][ 50]LogSavePackage: Moving 'E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/MilitarDroid_neck_collar_Auto1509F2E524FFAEEAA652A7E80222BD47A.tmp' to 'E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Autosaves/Game/AnimStarterPack/MilitarDroid_neck_collar_Auto1.uasset'
+[2021.07.17-17.18.38:671][ 50]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimStarterPack/MilitarDroid_chest_plate] ([1] browsable assets)...
+[2021.07.17-17.18.38:677][ 50]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AnimStarterPack/MilitarDroid_chest_plate.MilitarDroid_chest_plate]
+[2021.07.17-17.18.38:678][ 50]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/MilitarDroid_chest_plate]
+[2021.07.17-17.18.38:683][ 50]LogSavePackage: Moving 'E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/MilitarDroid_chest_plate_Auto1216DC5D8475823CD09D272A9A8DA6EB8.tmp' to 'E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Autosaves/Game/AnimStarterPack/MilitarDroid_chest_plate_Auto1.uasset'
+[2021.07.17-17.18.38:683][ 50]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimStarterPack/MilitarDroid_bags_002] ([1] browsable assets)...
+[2021.07.17-17.18.38:691][ 50]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AnimStarterPack/MilitarDroid_bags_002.MilitarDroid_bags_002]
+[2021.07.17-17.18.38:691][ 50]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/MilitarDroid_bags_002]
+[2021.07.17-17.18.38:696][ 50]LogSavePackage: Moving 'E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/MilitarDroid_bags_002_Auto1982E2EA84B9C17A3E46137A3ABA2B359.tmp' to 'E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Autosaves/Game/AnimStarterPack/MilitarDroid_bags_002_Auto1.uasset'
+[2021.07.17-17.18.38:696][ 50]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimStarterPack/MilitarDroid_backpack] ([1] browsable assets)...
+[2021.07.17-17.18.38:704][ 50]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AnimStarterPack/MilitarDroid_backpack.MilitarDroid_backpack]
+[2021.07.17-17.18.38:704][ 50]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/MilitarDroid_backpack]
+[2021.07.17-17.18.38:708][ 50]LogSavePackage: Moving 'E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/MilitarDroid_backpack_Auto17908646543DE83C2FC6E33AE5A4E2F1F.tmp' to 'E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Autosaves/Game/AnimStarterPack/MilitarDroid_backpack_Auto1.uasset'
+[2021.07.17-17.18.38:709][ 50]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimStarterPack/MilitarDroid_wire] ([1] browsable assets)...
+[2021.07.17-17.18.38:716][ 50]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AnimStarterPack/MilitarDroid_wire.MilitarDroid_wire]
+[2021.07.17-17.18.38:716][ 50]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/MilitarDroid_wire]
+[2021.07.17-17.18.38:720][ 50]LogSavePackage: Moving 'E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/MilitarDroid_wire_Auto15B79559D481A7ED6E15CC492BAA2C7DE.tmp' to 'E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Autosaves/Game/AnimStarterPack/MilitarDroid_wire_Auto1.uasset'
+[2021.07.17-17.18.38:721][ 50]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimStarterPack/MilitarDroid_shoulderplate_001] ([1] browsable assets)...
+[2021.07.17-17.18.38:729][ 50]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AnimStarterPack/MilitarDroid_shoulderplate_001.MilitarDroid_shoulderplate_001]
+[2021.07.17-17.18.38:729][ 50]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/MilitarDroid_shoulderplate_001]
+[2021.07.17-17.18.38:735][ 50]LogSavePackage: Moving 'E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/MilitarDroid_shoulderplate_001_A9817EC0B468A550661B173A90BEBC7C6.tmp' to 'E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Autosaves/Game/AnimStarterPack/MilitarDroid_shoulderplate_001_Auto1.uasset'
+[2021.07.17-17.18.38:735][ 50]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimStarterPack/MilitarDroid_bags] ([1] browsable assets)...
+[2021.07.17-17.18.38:743][ 50]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AnimStarterPack/MilitarDroid_bags.MilitarDroid_bags]
+[2021.07.17-17.18.38:743][ 50]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/MilitarDroid_bags]
+[2021.07.17-17.18.38:747][ 50]LogSavePackage: Moving 'E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/MilitarDroid_bags_Auto13DEA34B2475DAC291902BCAB8B0FF680.tmp' to 'E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Autosaves/Game/AnimStarterPack/MilitarDroid_bags_Auto1.uasset'
+[2021.07.17-17.18.38:748][ 50]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimStarterPack/MilitarDroid_gernades] ([1] browsable assets)...
+[2021.07.17-17.18.38:756][ 50]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AnimStarterPack/MilitarDroid_gernades.MilitarDroid_gernades]
+[2021.07.17-17.18.38:756][ 50]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/MilitarDroid_gernades]
+[2021.07.17-17.18.38:761][ 50]LogSavePackage: Moving 'E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/MilitarDroid_gernades_Auto1F4BB54294313E84C6485A8824CAC488A.tmp' to 'E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Autosaves/Game/AnimStarterPack/MilitarDroid_gernades_Auto1.uasset'
+[2021.07.17-17.18.38:762][ 50]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimStarterPack/MilitarDroid_bags_001] ([1] browsable assets)...
+[2021.07.17-17.18.38:770][ 50]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AnimStarterPack/MilitarDroid_bags_001.MilitarDroid_bags_001]
+[2021.07.17-17.18.38:770][ 50]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/MilitarDroid_bags_001]
+[2021.07.17-17.18.38:775][ 50]LogSavePackage: Moving 'E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/MilitarDroid_bags_001_Auto127BD66F54BDBFA5F613EAFA2C9631A58.tmp' to 'E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Autosaves/Game/AnimStarterPack/MilitarDroid_bags_001_Auto1.uasset'
+[2021.07.17-17.18.38:776][ 50]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimStarterPack/MilitarDroid_shoulderplate] ([1] browsable assets)...
+[2021.07.17-17.18.38:782][ 50]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AnimStarterPack/MilitarDroid_shoulderplate.MilitarDroid_shoulderplate]
+[2021.07.17-17.18.38:782][ 50]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/MilitarDroid_shoulderplate]
+[2021.07.17-17.18.38:787][ 50]LogSavePackage: Moving 'E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/MilitarDroid_shoulderplate_Auto16157379F4CE4222E8391F68D23F6C6A9.tmp' to 'E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Autosaves/Game/AnimStarterPack/MilitarDroid_shoulderplate_Auto1.uasset'
+[2021.07.17-17.18.38:787][ 50]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimStarterPack/MilitarDroid_thighs] ([1] browsable assets)...
+[2021.07.17-17.18.38:796][ 50]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AnimStarterPack/MilitarDroid_thighs.MilitarDroid_thighs]
+[2021.07.17-17.18.38:796][ 50]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/MilitarDroid_thighs]
+[2021.07.17-17.18.38:801][ 50]LogSavePackage: Moving 'E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/MilitarDroid_thighs_Auto172B34710421B0613A39E0BADCD96F087.tmp' to 'E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Autosaves/Game/AnimStarterPack/MilitarDroid_thighs_Auto1.uasset'
+[2021.07.17-17.18.38:801][ 50]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimStarterPack/MilitarDroid_chest] ([1] browsable assets)...
+[2021.07.17-17.18.38:809][ 50]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AnimStarterPack/MilitarDroid_chest.MilitarDroid_chest]
+[2021.07.17-17.18.38:809][ 50]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/MilitarDroid_chest]
+[2021.07.17-17.18.38:813][ 50]LogSavePackage: Moving 'E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/MilitarDroid_chest_Auto1BA6AAF724D97F81EF14BCF81C221A493.tmp' to 'E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Autosaves/Game/AnimStarterPack/MilitarDroid_chest_Auto1.uasset'
+[2021.07.17-17.18.38:814][ 50]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimStarterPack/MilitarDroid_wrist] ([1] browsable assets)...
+[2021.07.17-17.18.38:821][ 50]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AnimStarterPack/MilitarDroid_wrist.MilitarDroid_wrist]
+[2021.07.17-17.18.38:821][ 50]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/MilitarDroid_wrist]
+[2021.07.17-17.18.38:826][ 50]LogSavePackage: Moving 'E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/MilitarDroid_wrist_Auto1042B4F1842E73EF0EF11EAA0EC18E359.tmp' to 'E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Autosaves/Game/AnimStarterPack/MilitarDroid_wrist_Auto1.uasset'
+[2021.07.17-17.18.38:827][ 50]LogFileHelpers: Auto-saving content packages took 0.245
+[2021.07.17-17.18.46:132][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.07.17-17.18.47:764][581]LogSlate: Window 'Delete Assets' being destroyed
+[2021.07.17-17.18.47:801][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.07.17-17.18.54:427][944]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/osvaldo/Blender/MilitarDroid.fbx)
+[2021.07.17-17.18.54:432][944]LogFbx: Loading FBX Scene from E:/osvaldo/Blender/MilitarDroid.fbx
+[2021.07.17-17.18.54:442][944]LogFbx: FBX Scene Loaded Succesfully
+[2021.07.17-17.19.03:161][944]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.07.17-17.19.03:171][944]LogMaterial: Display: Missing cached shader map for material base, compiling. 
+[2021.07.17-17.19.03:176][944]LogFbx: Display: Triangulating static mesh base
+[2021.07.17-17.19.03:197][944]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 12
+[2021.07.17-17.19.03:197][944]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2021.07.17-17.19.03:197][944]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2021.07.17-17.19.03:197][944]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2021.07.17-17.19.03:197][944]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2021.07.17-17.19.03:197][944]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2
+[2021.07.17-17.19.03:198][944]LogStaticMesh: Building static mesh MilitarDroid_base...
+[2021.07.17-17.19.03:211][944]LogStaticMesh: Built static mesh [0.01s] /Game/AnimStarterPack/MilitarDroid/MilitarDroid_base.MilitarDroid_base
+[2021.07.17-17.19.03:218][944]LogMaterial: Display: Missing cached shader map for material armor, compiling. 
+[2021.07.17-17.19.03:225][944]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 12
+[2021.07.17-17.19.03:225][944]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 10
+[2021.07.17-17.19.03:225][944]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 8
+[2021.07.17-17.19.03:226][944]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 6
+[2021.07.17-17.19.03:226][944]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2021.07.17-17.19.03:226][944]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2021.07.17-17.19.03:226][944]LogFbx: Display: Triangulating static mesh head
+[2021.07.17-17.19.03:228][944]LogStaticMesh: Building static mesh MilitarDroid_head...
+[2021.07.17-17.19.03:235][944]LogStaticMesh: Built static mesh [0.01s] /Game/AnimStarterPack/MilitarDroid/MilitarDroid_head.MilitarDroid_head
+[2021.07.17-17.19.03:239][944]LogMaterial: Display: Missing cached shader map for material visor, compiling. 
+[2021.07.17-17.19.03:248][944]LogFbx: Display: Triangulating static mesh visor
+[2021.07.17-17.19.03:250][944]LogStaticMesh: Building static mesh MilitarDroid_visor...
+[2021.07.17-17.19.03:250][944]LogStaticMesh: Built static mesh [0.00s] /Game/AnimStarterPack/MilitarDroid/MilitarDroid_visor.MilitarDroid_visor
+[2021.07.17-17.19.03:253][944]LogMaterial: Display: Missing cached shader map for material armor_2, compiling. 
+[2021.07.17-17.19.03:261][944]LogFbx: Display: Triangulating static mesh neck collar
+[2021.07.17-17.19.03:265][944]LogStaticMesh: Building static mesh MilitarDroid_neck_collar...
+[2021.07.17-17.19.03:269][944]LogStaticMesh: Built static mesh [0.00s] /Game/AnimStarterPack/MilitarDroid/MilitarDroid_neck_collar.MilitarDroid_neck_collar
+[2021.07.17-17.19.03:272][944]LogFbx: Display: Triangulating static mesh chest plate
+[2021.07.17-17.19.03:277][944]LogStaticMesh: Building static mesh MilitarDroid_chest_plate...
+[2021.07.17-17.19.03:279][944]LogStaticMesh: Built static mesh [0.00s] /Game/AnimStarterPack/MilitarDroid/MilitarDroid_chest_plate.MilitarDroid_chest_plate
+[2021.07.17-17.19.03:279][944]LogStaticMesh: Warning: MilitarDroid_chest_plate has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.07.17-17.19.03:280][944]LogStaticMesh: Warning: MilitarDroid_chest_plate has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.07.17-17.19.03:284][944]LogMaterial: Display: Missing cached shader map for material equipment, compiling. 
+[2021.07.17-17.19.03:291][944]LogFbx: Display: Triangulating static mesh bags.002
+[2021.07.17-17.19.03:296][944]LogStaticMesh: Building static mesh MilitarDroid_bags_002...
+[2021.07.17-17.19.03:300][944]LogStaticMesh: Built static mesh [0.00s] /Game/AnimStarterPack/MilitarDroid/MilitarDroid_bags_002.MilitarDroid_bags_002
+[2021.07.17-17.19.03:304][944]LogFbx: Display: Triangulating static mesh backpack
+[2021.07.17-17.19.03:308][944]LogStaticMesh: Building static mesh MilitarDroid_backpack...
+[2021.07.17-17.19.03:309][944]LogStaticMesh: Built static mesh [0.00s] /Game/AnimStarterPack/MilitarDroid/MilitarDroid_backpack.MilitarDroid_backpack
+[2021.07.17-17.19.03:310][944]LogStaticMesh: Warning: MilitarDroid_backpack has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.07.17-17.19.03:310][944]LogStaticMesh: Warning: MilitarDroid_backpack has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.07.17-17.19.03:313][944]LogFbx: Display: Triangulating static mesh wire
+[2021.07.17-17.19.03:316][944]LogStaticMesh: Building static mesh MilitarDroid_wire...
+[2021.07.17-17.19.03:318][944]LogStaticMesh: Built static mesh [0.00s] /Game/AnimStarterPack/MilitarDroid/MilitarDroid_wire.MilitarDroid_wire
+[2021.07.17-17.19.03:318][944]LogStaticMesh: Warning: MilitarDroid_wire has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.07.17-17.19.03:318][944]LogStaticMesh: Warning: MilitarDroid_wire has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.07.17-17.19.03:321][944]LogFbx: Display: Triangulating static mesh shoulderplate.001
+[2021.07.17-17.19.03:325][944]LogStaticMesh: Building static mesh MilitarDroid_shoulderplate_001...
+[2021.07.17-17.19.03:331][944]LogStaticMesh: Built static mesh [0.01s] /Game/AnimStarterPack/MilitarDroid/MilitarDroid_shoulderplate_001.MilitarDroid_shoulderplate_001
+[2021.07.17-17.19.03:334][944]LogFbx: Display: Triangulating static mesh bags
+[2021.07.17-17.19.03:338][944]LogStaticMesh: Building static mesh MilitarDroid_bags...
+[2021.07.17-17.19.03:341][944]LogStaticMesh: Built static mesh [0.00s] /Game/AnimStarterPack/MilitarDroid/MilitarDroid_bags.MilitarDroid_bags
+[2021.07.17-17.19.03:344][944]LogFbx: Display: Triangulating static mesh gernades
+[2021.07.17-17.19.03:369][944]LogStaticMesh: Building static mesh MilitarDroid_gernades...
+[2021.07.17-17.19.03:387][944]LogStaticMesh: Built static mesh [0.02s] /Game/AnimStarterPack/MilitarDroid/MilitarDroid_gernades.MilitarDroid_gernades
+[2021.07.17-17.19.03:391][944]LogFbx: Display: Triangulating static mesh bags.001
+[2021.07.17-17.19.03:395][944]LogStaticMesh: Building static mesh MilitarDroid_bags_001...
+[2021.07.17-17.19.03:398][944]LogStaticMesh: Built static mesh [0.00s] /Game/AnimStarterPack/MilitarDroid/MilitarDroid_bags_001.MilitarDroid_bags_001
+[2021.07.17-17.19.03:401][944]LogFbx: Display: Triangulating static mesh shoulderplate
+[2021.07.17-17.19.03:405][944]LogStaticMesh: Building static mesh MilitarDroid_shoulderplate...
+[2021.07.17-17.19.03:411][944]LogStaticMesh: Built static mesh [0.01s] /Game/AnimStarterPack/MilitarDroid/MilitarDroid_shoulderplate.MilitarDroid_shoulderplate
+[2021.07.17-17.19.03:415][944]LogFbx: Display: Triangulating static mesh thighs
+[2021.07.17-17.19.03:420][944]LogStaticMesh: Building static mesh MilitarDroid_thighs...
+[2021.07.17-17.19.03:429][944]LogStaticMesh: Built static mesh [0.01s] /Game/AnimStarterPack/MilitarDroid/MilitarDroid_thighs.MilitarDroid_thighs
+[2021.07.17-17.19.03:432][944]LogFbx: Display: Triangulating static mesh chest
+[2021.07.17-17.19.03:436][944]LogStaticMesh: Building static mesh MilitarDroid_chest...
+[2021.07.17-17.19.03:442][944]LogStaticMesh: Built static mesh [0.01s] /Game/AnimStarterPack/MilitarDroid/MilitarDroid_chest.MilitarDroid_chest
+[2021.07.17-17.19.03:446][944]LogFbx: Display: Triangulating static mesh wrist
+[2021.07.17-17.19.03:455][944]LogStaticMesh: Building static mesh MilitarDroid_wrist...
+[2021.07.17-17.19.03:460][944]LogStaticMesh: Built static mesh [0.01s] /Game/AnimStarterPack/MilitarDroid/MilitarDroid_wrist.MilitarDroid_wrist
+[2021.07.17-17.19.03:464][944]LogFbx: Display: Triangulating static mesh boots
+[2021.07.17-17.19.03:475][944]LogStaticMesh: Building static mesh MilitarDroid_boots...
+[2021.07.17-17.19.03:483][944]LogStaticMesh: Built static mesh [0.01s] /Game/AnimStarterPack/MilitarDroid/MilitarDroid_boots.MilitarDroid_boots
+[2021.07.17-17.19.03:487][944]LogFbx: Display: Triangulating static mesh waist
+[2021.07.17-17.19.03:490][944]LogStaticMesh: Building static mesh MilitarDroid_waist...
+[2021.07.17-17.19.03:496][944]LogStaticMesh: Built static mesh [0.01s] /Game/AnimStarterPack/MilitarDroid/MilitarDroid_waist.MilitarDroid_waist
+[2021.07.17-17.19.03:517][944]FBXImport: Warning: MilitarDroid_chest_plate has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.07.17-17.19.03:517][944]FBXImport: Warning: MilitarDroid_chest_plate has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.07.17-17.19.03:517][944]FBXImport: Warning: MilitarDroid_backpack has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.07.17-17.19.03:517][944]FBXImport: Warning: MilitarDroid_backpack has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.07.17-17.19.03:518][944]FBXImport: Warning: MilitarDroid_wire has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.07.17-17.19.03:518][944]FBXImport: Warning: MilitarDroid_wire has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.07.17-17.19.04:345][967]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 36
+[2021.07.17-17.19.04:393][970]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 32
+[2021.07.17-17.19.04:463][974]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 29
+[2021.07.17-17.19.04:637][985]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 26
+[2021.07.17-17.19.04:655][986]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 23
+[2021.07.17-17.19.04:771][994]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 21
+[2021.07.17-17.19.04:862][  1]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 19
+[2021.07.17-17.19.04:915][  5]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 17
+[2021.07.17-17.19.04:915][  5]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 15
+[2021.07.17-17.19.04:975][ 10]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 13
+[2021.07.17-17.19.04:997][ 11]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 11
+[2021.07.17-17.19.04:997][ 11]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 10
+[2021.07.17-17.19.05:501][ 45]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 9
+[2021.07.17-17.19.05:674][ 58]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 8
+[2021.07.17-17.19.05:691][ 59]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2021.07.17-17.19.06:054][ 82]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2021.07.17-17.19.06:108][ 86]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2021.07.17-17.19.06:206][ 94]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2021.07.17-17.19.06:253][ 98]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2021.07.17-17.19.06:254][ 98]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2021.07.17-17.19.06:279][100]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2021.07.17-17.19.07:119][186]LogSlate: Window 'Message Log' being destroyed
+[2021.07.17-17.19.07:123][186]LogSlate: Window 'Message Log' being destroyed
+[2021.07.17-17.19.16:128][796]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/osvaldo/Blender/MilitarDroid.fbx)
+[2021.07.17-17.19.16:134][796]LogFbx: Loading FBX Scene from E:/osvaldo/Blender/MilitarDroid.fbx
+[2021.07.17-17.19.16:144][796]LogFbx: FBX Scene Loaded Succesfully
+[2021.07.17-17.19.25:378][796]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.07.17-17.19.25:390][796]LogFbx: Triangulating skeletal mesh base
+[2021.07.17-17.19.25:404][796]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.07.17-17.19.25:427][796]LogSkeletalMesh: Section 0: Material=0, 1128 triangles
+[2021.07.17-17.19.25:428][796]LogSkeletalMesh: Building Skeletal Mesh MilitarDroid_base...
+[2021.07.17-17.19.25:445][796]LogSkeletalMesh: Section 0: Material=0, 1128 triangles
+[2021.07.17-17.19.25:447][796]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/AnimStarterPack/MilitarDroid/MilitarDroid.MilitarDroid_base
+[2021.07.17-17.19.25:450][796]LogMaterial: Display: Material /Game/AnimStarterPack/MilitarDroid/base.base needed to have new flag set bUsedWithSkeletalMesh !
+[2021.07.17-17.19.25:452][796]LogMaterial: Display: Missing cached shader map for material base, compiling. 
+[2021.07.17-17.19.25:461][796]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 24
+[2021.07.17-17.19.25:461][796]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 21
+[2021.07.17-17.19.25:461][796]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 18
+[2021.07.17-17.19.25:461][796]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 15
+[2021.07.17-17.19.25:461][796]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 12
+[2021.07.17-17.19.25:461][796]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2021.07.17-17.19.25:461][796]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2021.07.17-17.19.25:461][796]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2021.07.17-17.19.25:462][796]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_5:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2021.07.17-17.19.25:462][796]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.07.17-17.19.25:462][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-17.19.25:466][796]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.07.17-17.19.25:466][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-17.19.25:469][796]LogFbx: Triangulating skeletal mesh head
+[2021.07.17-17.19.25:470][796]LogFbx: Triangulating skeletal mesh visor
+[2021.07.17-17.19.25:471][796]LogFbx: Warning: Bones digested - 2  Depth of hierarchy - 2
+[2021.07.17-17.19.25:472][796]LogSkeletalMesh: Section 0: Material=0, 76 triangles
+[2021.07.17-17.19.25:472][796]LogSkeletalMesh: Section 1: Material=1, 2 triangles
+[2021.07.17-17.19.25:473][796]LogSkeletalMesh: Building Skeletal Mesh MilitarDroid_head...
+[2021.07.17-17.19.25:475][796]LogSkeletalMesh: Section 0: Material=0, 76 triangles
+[2021.07.17-17.19.25:475][796]LogSkeletalMesh: Section 1: Material=1, 2 triangles
+[2021.07.17-17.19.25:475][796]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/AnimStarterPack/MilitarDroid/MilitarDroid.MilitarDroid_head
+[2021.07.17-17.19.25:479][796]LogMaterial: Display: Material /Game/AnimStarterPack/MilitarDroid/armor.armor needed to have new flag set bUsedWithSkeletalMesh !
+[2021.07.17-17.19.25:480][796]LogMaterial: Display: Missing cached shader map for material armor, compiling. 
+[2021.07.17-17.19.25:490][796]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 24
+[2021.07.17-17.19.25:490][796]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 21
+[2021.07.17-17.19.25:490][796]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 18
+[2021.07.17-17.19.25:490][796]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 15
+[2021.07.17-17.19.25:490][796]LogMaterial: Display: Material /Game/AnimStarterPack/MilitarDroid/visor.visor needed to have new flag set bUsedWithSkeletalMesh !
+[2021.07.17-17.19.25:491][796]LogMaterial: Display: Missing cached shader map for material visor, compiling. 
+[2021.07.17-17.19.25:504][796]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2021.07.17-17.19.25:504][796]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.07.17-17.19.25:504][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-17.19.25:507][796]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.07.17-17.19.25:507][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-17.19.25:510][796]LogFbx: Triangulating skeletal mesh neck collar
+[2021.07.17-17.19.25:512][796]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.07.17-17.19.25:516][796]LogSkeletalMesh: Section 0: Material=0, 136 triangles
+[2021.07.17-17.19.25:516][796]LogSkeletalMesh: Building Skeletal Mesh MilitarDroid_neck collar...
+[2021.07.17-17.19.25:520][796]LogSkeletalMesh: Section 0: Material=0, 136 triangles
+[2021.07.17-17.19.25:520][796]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/AnimStarterPack/MilitarDroid/MilitarDroid.MilitarDroid_neck collar
+[2021.07.17-17.19.25:520][796]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AnimStarterPack/MilitarDroid/MilitarDroid_neck collar_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2021.07.17-17.19.25:521][796]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AnimStarterPack/MilitarDroid/MilitarDroid_neck collar_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2021.07.17-17.19.25:521][796]LogLinker: Error: AddRedirectList(AddKnownMissing) failed to add redirector from /Game/AnimStarterPack/MilitarDroid/MilitarDroid_neck collar_Skeleton to /Game/AnimStarterPack/MilitarDroid/MilitarDroid_neck collar_Skeleton with invalid characters!
+[2021.07.17-17.19.25:521][796]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AnimStarterPack/MilitarDroid/MilitarDroid_neck collar_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2021.07.17-17.19.25:521][796]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AnimStarterPack/MilitarDroid/MilitarDroid_neck collar_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2021.07.17-17.19.25:521][796]LogLinker: Error: AddRedirectList(AddKnownMissing) failed to add redirector from /Game/AnimStarterPack/MilitarDroid/MilitarDroid_neck collar_PhysicsAsset to /Game/AnimStarterPack/MilitarDroid/MilitarDroid_neck collar_PhysicsAsset with invalid characters!
+[2021.07.17-17.19.25:525][796]LogMaterial: Display: Material /Game/AnimStarterPack/MilitarDroid/armor_2.armor_2 needed to have new flag set bUsedWithSkeletalMesh !
+[2021.07.17-17.19.25:526][796]LogMaterial: Display: Missing cached shader map for material armor_2, compiling. 
+[2021.07.17-17.19.25:537][796]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2021.07.17-17.19.25:537][796]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.07.17-17.19.25:538][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-17.19.25:541][796]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.07.17-17.19.25:541][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-17.19.25:543][796]LogFbx: Triangulating skeletal mesh chest plate
+[2021.07.17-17.19.25:547][796]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.07.17-17.19.25:552][796]LogSkeletalMesh: Section 0: Material=0, 168 triangles
+[2021.07.17-17.19.25:553][796]LogSkeletalMesh: Building Skeletal Mesh MilitarDroid_chest plate...
+[2021.07.17-17.19.25:558][796]LogSkeletalMesh: Section 0: Material=0, 168 triangles
+[2021.07.17-17.19.25:558][796]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/AnimStarterPack/MilitarDroid/MilitarDroid.MilitarDroid_chest plate
+[2021.07.17-17.19.25:559][796]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AnimStarterPack/MilitarDroid/MilitarDroid_chest plate_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2021.07.17-17.19.25:559][796]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AnimStarterPack/MilitarDroid/MilitarDroid_chest plate_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2021.07.17-17.19.25:559][796]LogLinker: Error: AddRedirectList(AddKnownMissing) failed to add redirector from /Game/AnimStarterPack/MilitarDroid/MilitarDroid_chest plate_Skeleton to /Game/AnimStarterPack/MilitarDroid/MilitarDroid_chest plate_Skeleton with invalid characters!
+[2021.07.17-17.19.25:559][796]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AnimStarterPack/MilitarDroid/MilitarDroid_chest plate_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2021.07.17-17.19.25:559][796]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AnimStarterPack/MilitarDroid/MilitarDroid_chest plate_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2021.07.17-17.19.25:560][796]LogLinker: Error: AddRedirectList(AddKnownMissing) failed to add redirector from /Game/AnimStarterPack/MilitarDroid/MilitarDroid_chest plate_PhysicsAsset to /Game/AnimStarterPack/MilitarDroid/MilitarDroid_chest plate_PhysicsAsset with invalid characters!
+[2021.07.17-17.19.25:562][796]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2021.07.17-17.19.25:563][796]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.07.17-17.19.25:563][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-17.19.25:566][796]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.07.17-17.19.25:566][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-17.19.25:569][796]LogFbx: Triangulating skeletal mesh bags.002
+[2021.07.17-17.19.25:574][796]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.07.17-17.19.25:575][796]LogSkeletalMesh: Display: /Game/AnimStarterPack/MilitarDroid/MilitarDroid.MilitarDroid_bags_002 ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2021.07.17-17.19.25:578][796]LogSkeletalMesh: Section 0: Material=0, 208 triangles
+[2021.07.17-17.19.25:579][796]LogSkeletalMesh: Building Skeletal Mesh MilitarDroid_bags_002...
+[2021.07.17-17.19.25:580][796]LogSkeletalMesh: Display: /Game/AnimStarterPack/MilitarDroid/MilitarDroid.MilitarDroid_bags_002 ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2021.07.17-17.19.25:582][796]LogSkeletalMesh: Section 0: Material=0, 208 triangles
+[2021.07.17-17.19.25:583][796]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/AnimStarterPack/MilitarDroid/MilitarDroid.MilitarDroid_bags_002
+[2021.07.17-17.19.25:596][796]LogMaterial: Display: Material /Game/AnimStarterPack/MilitarDroid/equipment.equipment needed to have new flag set bUsedWithSkeletalMesh !
+[2021.07.17-17.19.25:598][796]LogMaterial: Display: Missing cached shader map for material equipment, compiling. 
+[2021.07.17-17.19.25:612][796]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_13:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2021.07.17-17.19.25:612][796]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.07.17-17.19.25:612][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-17.19.25:617][796]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.07.17-17.19.25:617][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-17.19.25:622][796]LogFbx: Triangulating skeletal mesh backpack
+[2021.07.17-17.19.25:625][796]LogFbx: Triangulating skeletal mesh wire
+[2021.07.17-17.19.25:628][796]LogFbx: Warning: Bones digested - 2  Depth of hierarchy - 2
+[2021.07.17-17.19.25:631][796]LogSkeletalMesh: Display: /Game/AnimStarterPack/MilitarDroid/MilitarDroid.MilitarDroid_backpack ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2021.07.17-17.19.25:633][796]LogSkeletalMesh: Section 0: Material=0, 140 triangles
+[2021.07.17-17.19.25:633][796]LogSkeletalMesh: Section 1: Material=1, 92 triangles
+[2021.07.17-17.19.25:635][796]LogSkeletalMesh: Building Skeletal Mesh MilitarDroid_backpack...
+[2021.07.17-17.19.25:636][796]LogSkeletalMesh: Display: /Game/AnimStarterPack/MilitarDroid/MilitarDroid.MilitarDroid_backpack ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2021.07.17-17.19.25:639][796]LogSkeletalMesh: Section 0: Material=0, 140 triangles
+[2021.07.17-17.19.25:639][796]LogSkeletalMesh: Section 1: Material=1, 92 triangles
+[2021.07.17-17.19.25:641][796]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/AnimStarterPack/MilitarDroid/MilitarDroid.MilitarDroid_backpack
+[2021.07.17-17.19.25:647][796]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.07.17-17.19.25:647][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-17.19.25:658][796]LogFbx: Triangulating skeletal mesh shoulderplate.001
+[2021.07.17-17.19.25:662][796]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.07.17-17.19.25:664][796]LogSkeletalMesh: Section 0: Material=0, 136 triangles
+[2021.07.17-17.19.25:666][796]LogSkeletalMesh: Building Skeletal Mesh MilitarDroid_shoulderplate_001...
+[2021.07.17-17.19.25:668][796]LogSkeletalMesh: Section 0: Material=0, 136 triangles
+[2021.07.17-17.19.25:669][796]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/AnimStarterPack/MilitarDroid/MilitarDroid.MilitarDroid_shoulderplate_001
+[2021.07.17-17.19.25:676][796]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2021.07.17-17.19.25:676][796]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.07.17-17.19.25:676][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-17.19.25:683][796]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.07.17-17.19.25:683][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-17.19.25:700][796]LogFbx: Triangulating skeletal mesh bags
+[2021.07.17-17.19.25:703][796]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.07.17-17.19.25:704][796]LogSkeletalMesh: Display: /Game/AnimStarterPack/MilitarDroid/MilitarDroid.MilitarDroid_bags ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2021.07.17-17.19.25:705][796]LogSkeletalMesh: Section 0: Material=0, 104 triangles
+[2021.07.17-17.19.25:707][796]LogSkeletalMesh: Building Skeletal Mesh MilitarDroid_bags...
+[2021.07.17-17.19.25:707][796]LogSkeletalMesh: Display: /Game/AnimStarterPack/MilitarDroid/MilitarDroid.MilitarDroid_bags ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2021.07.17-17.19.25:708][796]LogSkeletalMesh: Section 0: Material=0, 104 triangles
+[2021.07.17-17.19.25:709][796]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/AnimStarterPack/MilitarDroid/MilitarDroid.MilitarDroid_bags
+[2021.07.17-17.19.25:714][796]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2021.07.17-17.19.25:715][796]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.07.17-17.19.25:715][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-17.19.25:722][796]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.07.17-17.19.25:723][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-17.19.25:727][796]LogFbx: Triangulating skeletal mesh gernades
+[2021.07.17-17.19.25:752][796]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.07.17-17.19.25:763][796]LogSkeletalMesh: Display: /Game/AnimStarterPack/MilitarDroid/MilitarDroid.MilitarDroid_gernades ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2021.07.17-17.19.25:785][796]LogSkeletalMesh: Section 0: Material=0, 1184 triangles
+[2021.07.17-17.19.25:787][796]LogSkeletalMesh: Building Skeletal Mesh MilitarDroid_gernades...
+[2021.07.17-17.19.25:794][796]LogSkeletalMesh: Display: /Game/AnimStarterPack/MilitarDroid/MilitarDroid.MilitarDroid_gernades ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2021.07.17-17.19.25:817][796]LogSkeletalMesh: Section 0: Material=0, 1184 triangles
+[2021.07.17-17.19.25:820][796]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/AnimStarterPack/MilitarDroid/MilitarDroid.MilitarDroid_gernades
+[2021.07.17-17.19.25:825][796]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_20:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2021.07.17-17.19.25:826][796]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.07.17-17.19.25:826][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-17.19.25:830][796]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.07.17-17.19.25:830][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-17.19.25:836][796]LogFbx: Triangulating skeletal mesh bags.001
+[2021.07.17-17.19.25:840][796]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.07.17-17.19.25:841][796]LogSkeletalMesh: Display: /Game/AnimStarterPack/MilitarDroid/MilitarDroid.MilitarDroid_bags_001 ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2021.07.17-17.19.25:842][796]LogSkeletalMesh: Section 0: Material=0, 104 triangles
+[2021.07.17-17.19.25:843][796]LogSkeletalMesh: Building Skeletal Mesh MilitarDroid_bags_001...
+[2021.07.17-17.19.25:844][796]LogSkeletalMesh: Display: /Game/AnimStarterPack/MilitarDroid/MilitarDroid.MilitarDroid_bags_001 ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2021.07.17-17.19.25:845][796]LogSkeletalMesh: Section 0: Material=0, 104 triangles
+[2021.07.17-17.19.25:846][796]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/AnimStarterPack/MilitarDroid/MilitarDroid.MilitarDroid_bags_001
+[2021.07.17-17.19.25:851][796]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2021.07.17-17.19.25:851][796]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.07.17-17.19.25:851][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-17.19.25:857][796]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.07.17-17.19.25:857][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-17.19.25:860][796]LogFbx: Triangulating skeletal mesh shoulderplate
+[2021.07.17-17.19.25:863][796]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.07.17-17.19.25:867][796]LogSkeletalMesh: Section 0: Material=0, 136 triangles
+[2021.07.17-17.19.25:868][796]LogSkeletalMesh: Building Skeletal Mesh MilitarDroid_shoulderplate...
+[2021.07.17-17.19.25:872][796]LogSkeletalMesh: Section 0: Material=0, 136 triangles
+[2021.07.17-17.19.25:872][796]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/AnimStarterPack/MilitarDroid/MilitarDroid.MilitarDroid_shoulderplate
+[2021.07.17-17.19.25:877][796]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_24:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2021.07.17-17.19.25:877][796]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.07.17-17.19.25:877][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-17.19.25:882][796]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.07.17-17.19.25:882][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-17.19.25:885][796]LogFbx: Triangulating skeletal mesh thighs
+[2021.07.17-17.19.25:889][796]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.07.17-17.19.25:894][796]LogSkeletalMesh: Section 0: Material=0, 228 triangles
+[2021.07.17-17.19.25:896][796]LogSkeletalMesh: Building Skeletal Mesh MilitarDroid_thighs...
+[2021.07.17-17.19.25:900][796]LogSkeletalMesh: Section 0: Material=0, 228 triangles
+[2021.07.17-17.19.25:901][796]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/AnimStarterPack/MilitarDroid/MilitarDroid.MilitarDroid_thighs
+[2021.07.17-17.19.25:906][796]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_26:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2021.07.17-17.19.25:906][796]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.07.17-17.19.25:906][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-17.19.25:911][796]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2021.07.17-17.19.25:911][796]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.07.17-17.19.25:911][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-17.19.25:924][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2021.07.17-17.19.25:934][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.07.17-17.19.25:937][796]LogFbx: Triangulating skeletal mesh chest
+[2021.07.17-17.19.25:940][796]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.07.17-17.19.25:942][796]LogSkeletalMesh: Section 0: Material=0, 112 triangles
+[2021.07.17-17.19.25:944][796]LogSkeletalMesh: Building Skeletal Mesh MilitarDroid_chest...
+[2021.07.17-17.19.25:946][796]LogSkeletalMesh: Section 0: Material=0, 112 triangles
+[2021.07.17-17.19.25:946][796]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/AnimStarterPack/MilitarDroid/MilitarDroid.MilitarDroid_chest
+[2021.07.17-17.19.25:952][796]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2021.07.17-17.19.25:952][796]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.07.17-17.19.25:953][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-17.19.25:958][796]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2021.07.17-17.19.25:958][796]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2021.07.17-17.19.25:958][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-17.19.25:966][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.07.17-17.19.25:974][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.07.17-17.19.25:977][796]LogFbx: Triangulating skeletal mesh wrist
+[2021.07.17-17.19.25:984][796]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.07.17-17.19.25:994][796]LogSkeletalMesh: Section 0: Material=0, 336 triangles
+[2021.07.17-17.19.25:995][796]LogSkeletalMesh: Building Skeletal Mesh MilitarDroid_wrist...
+[2021.07.17-17.19.26:003][796]LogSkeletalMesh: Section 0: Material=0, 336 triangles
+[2021.07.17-17.19.26:004][796]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/AnimStarterPack/MilitarDroid/MilitarDroid.MilitarDroid_wrist
+[2021.07.17-17.19.26:008][796]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_30:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2021.07.17-17.19.26:008][796]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2021.07.17-17.19.26:008][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-17.19.26:013][796]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2021.07.17-17.19.26:013][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-17.19.26:016][796]LogFbx: Triangulating skeletal mesh boots
+[2021.07.17-17.19.26:025][796]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.07.17-17.19.26:038][796]LogSkeletalMesh: Section 0: Material=0, 436 triangles
+[2021.07.17-17.19.26:039][796]LogSkeletalMesh: Building Skeletal Mesh MilitarDroid_boots...
+[2021.07.17-17.19.26:051][796]LogSkeletalMesh: Section 0: Material=0, 436 triangles
+[2021.07.17-17.19.26:052][796]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/AnimStarterPack/MilitarDroid/MilitarDroid.MilitarDroid_boots
+[2021.07.17-17.19.26:056][796]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_32:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2021.07.17-17.19.26:056][796]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2021.07.17-17.19.26:057][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-17.19.26:061][796]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2021.07.17-17.19.26:061][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-17.19.26:065][796]LogFbx: Triangulating skeletal mesh waist
+[2021.07.17-17.19.26:067][796]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.07.17-17.19.26:069][796]LogSkeletalMesh: Section 0: Material=0, 72 triangles
+[2021.07.17-17.19.26:070][796]LogSkeletalMesh: Building Skeletal Mesh MilitarDroid_waist...
+[2021.07.17-17.19.26:073][796]LogSkeletalMesh: Section 0: Material=0, 72 triangles
+[2021.07.17-17.19.26:073][796]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/AnimStarterPack/MilitarDroid/MilitarDroid.MilitarDroid_waist
+[2021.07.17-17.19.26:077][796]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_34:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2021.07.17-17.19.26:077][796]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2021.07.17-17.19.26:077][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-17.19.26:081][796]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_35:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2021.07.17-17.19.26:082][796]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2021.07.17-17.19.26:082][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-17.19.26:088][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.07.17-17.19.26:096][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.07.17-17.19.26:101][796]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.07.17-17.19.26:102][796]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.07.17-17.19.26:102][796]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.07.17-17.19.26:102][796]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.07.17-17.19.26:102][796]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.07.17-17.19.26:102][796]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.07.17-17.19.26:102][796]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.07.17-17.19.26:102][796]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.07.17-17.19.26:102][796]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.07.17-17.19.26:102][796]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.07.17-17.19.26:102][796]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.07.17-17.19.26:102][796]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.07.17-17.19.26:102][796]FBXImport: Warning: The bone size is too small to create Physics Asset 'MilitarDroid_thighs_PhysicsAsset' from Skeletal Mesh 'MilitarDroid_thighs'. You will have to create physics asset manually. 
+[2021.07.17-17.19.26:103][796]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.07.17-17.19.26:103][796]FBXImport: Warning: The bone size is too small to create Physics Asset 'MilitarDroid_chest_PhysicsAsset' from Skeletal Mesh 'MilitarDroid_chest'. You will have to create physics asset manually. 
+[2021.07.17-17.19.26:103][796]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.07.17-17.19.26:103][796]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.07.17-17.19.26:103][796]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.07.17-17.19.26:103][796]FBXImport: Warning: The bone size is too small to create Physics Asset 'MilitarDroid_waist_PhysicsAsset' from Skeletal Mesh 'MilitarDroid_waist'. You will have to create physics asset manually. 
+[2021.07.17-17.19.26:268][796]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AnimStarterPack/MilitarDroid/MilitarDroid_neck collar_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2021.07.17-17.19.26:268][796]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AnimStarterPack/MilitarDroid/MilitarDroid_neck collar_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2021.07.17-17.19.26:268][796]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AnimStarterPack/MilitarDroid/MilitarDroid_chest plate_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2021.07.17-17.19.26:268][796]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AnimStarterPack/MilitarDroid/MilitarDroid_chest plate_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2021.07.17-17.19.26:424][799]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AnimStarterPack/MilitarDroid/MilitarDroid_chest plate_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2021.07.17-17.19.26:455][800]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AnimStarterPack/MilitarDroid/MilitarDroid_neck collar_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2021.07.17-17.19.26:571][801]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 84
+[2021.07.17-17.19.26:599][801]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 76
+[2021.07.17-17.19.26:733][802]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 69
+[2021.07.17-17.19.26:785][802]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 63
+[2021.07.17-17.19.26:838][803]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 57
+[2021.07.17-17.19.26:908][808]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 52
+[2021.07.17-17.19.26:964][812]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 47
+[2021.07.17-17.19.26:995][814]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 43
+[2021.07.17-17.19.26:995][814]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 39
+[2021.07.17-17.19.27:236][829]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 35
+[2021.07.17-17.19.27:348][834]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 32
+[2021.07.17-17.19.27:549][837]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 29
+[2021.07.17-17.19.28:459][884]LogSlate: Window 'Message Log' being destroyed
+[2021.07.17-17.19.28:467][884]LogSlate: Window 'Message Log' being destroyed
+[2021.07.17-17.19.28:633][896]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 26
+[2021.07.17-17.19.28:726][901]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 23
+[2021.07.17-17.19.28:755][903]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 21
+[2021.07.17-17.19.28:933][909]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 19
+[2021.07.17-17.19.29:047][915]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AnimStarterPack/MilitarDroid/MilitarDroid_chest plate_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2021.07.17-17.19.29:136][919]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 17
+[2021.07.17-17.19.29:392][928]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 15
+[2021.07.17-17.19.29:473][931]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 13
+[2021.07.17-17.19.29:500][932]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 11
+[2021.07.17-17.19.29:617][934]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 10
+[2021.07.17-17.19.29:617][934]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 9
+[2021.07.17-17.19.29:651][935]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AnimStarterPack/MilitarDroid/MilitarDroid_neck collar_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2021.07.17-17.19.29:756][941]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2021.07.17-17.19.29:786][942]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2021.07.17-17.19.29:988][950]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2021.07.17-17.19.30:016][951]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 5
+[2021.07.17-17.19.30:059][952]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2021.07.17-17.19.30:095][953]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2021.07.17-17.19.30:149][955]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2
+[2021.07.17-17.19.30:165][956]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2021.07.17-17.19.32:702][108]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AnimStarterPack/MilitarDroid/MilitarDroid_chest plate_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2021.07.17-17.19.34:667][243]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AnimStarterPack/MilitarDroid/MilitarDroid_chest plate_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2021.07.17-17.19.36:382][353]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/AnimStarterPack/MilitarDroid/MilitarDroid.MilitarDroid_base
+[2021.07.17-17.19.36:426][353]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2021.07.17-17.19.36:589][353]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.07.17-17.19.36:595][353]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2021.07.17-17.19.36:878][354]LogRenderer: Reallocating scene render targets to support 1680x1080 Format 10 NumSamples 1 (Frame:1).
+[2021.07.17-17.19.36:997][355]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AnimStarterPack/MilitarDroid/MilitarDroid_chest plate_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2021.07.17-17.19.36:997][355]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AnimStarterPack/MilitarDroid/MilitarDroid_chest plate_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2021.07.17-17.19.37:003][356]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AnimStarterPack/MilitarDroid/MilitarDroid_chest plate_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2021.07.17-17.19.57:311][876]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/AnimStarterPack/MilitarDroid/MilitarDroid_base_Skeleton.MilitarDroid_base_Skeleton
+[2021.07.17-17.19.57:314][876]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.07.17-17.19.59:902][ 66]LogSlate: Window 'MilitarDroid_base_Skeleton' being destroyed
+[2021.07.17-17.19.59:906][ 66]LogSlate: Window 'MilitarDroid_base_Skeleton' being destroyed
+[2021.07.17-17.19.59:907][ 66]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2021.07.17-17.19.59:907][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-17.19.59:935][ 66]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2021.07.17-17.19.59:935][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-17.20.02:365][223]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/AnimStarterPack/MilitarDroid/MilitarDroid_base_PhysicsAsset.MilitarDroid_base_PhysicsAsset
+[2021.07.17-17.20.02:380][223]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0002 seconds. Added 8 classes and 3 folders.
+[2021.07.17-17.20.02:388][223]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2021.07.17-17.20.02:636][224]LogRenderer: Reallocating scene render targets to support 1680x1084 Format 10 NumSamples 1 (Frame:1).
+[2021.07.17-17.20.02:744][225]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AnimStarterPack/MilitarDroid/MilitarDroid_chest plate_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2021.07.17-17.20.02:745][225]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AnimStarterPack/MilitarDroid/MilitarDroid_chest plate_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2021.07.17-17.20.02:751][226]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AnimStarterPack/MilitarDroid/MilitarDroid_chest plate_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2021.07.17-17.20.04:285][327]LogSlate: Window 'MilitarDroid_base_PhysicsAsset' being destroyed
+[2021.07.17-17.20.04:293][327]LogSlate: Window 'MilitarDroid_base_PhysicsAsset' being destroyed
+[2021.07.17-17.20.04:294][327]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2021.07.17-17.20.04:294][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-17.20.05:355][397]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AnimStarterPack/MilitarDroid/MilitarDroid_neck collar_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2021.07.17-17.20.05:361][398]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AnimStarterPack/MilitarDroid/MilitarDroid_neck collar_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2021.07.17-17.20.12:566][965]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AnimStarterPack/MilitarDroid/MilitarDroid_neck collar_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2021.07.17-17.20.12:566][965]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AnimStarterPack/MilitarDroid/MilitarDroid_neck collar_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2021.07.17-17.20.12:566][965]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AnimStarterPack/MilitarDroid/MilitarDroid_chest plate_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2021.07.17-17.20.12:566][965]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AnimStarterPack/MilitarDroid/MilitarDroid_chest plate_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2021.07.17-17.20.12:573][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.07.17-17.20.14:690][965]LogSlate: Window 'Delete Assets' being destroyed
+[2021.07.17-17.20.14:709][965]LogUObjectGlobals: Force Deleting 68 Package(s):
+	Asset Name: /Game/AnimStarterPack/MilitarDroid/MilitarDroid_backpack.MilitarDroid_backpack
+	Asset Name: /Game/AnimStarterPack/MilitarDroid/equipment.equipment
+	Asset Name: /Game/AnimStarterPack/MilitarDroid/armor.armor
+	Asset Name: /Game/AnimStarterPack/MilitarDroid/MilitarDroid_head.MilitarDroid_head
+	Asset Name: /Game/AnimStarterPack/MilitarDroid/base.base
+	Asset Name: /Game/AnimStarterPack/MilitarDroid/MilitarDroid_base.MilitarDroid_base
+	Asset Name: /Game/AnimStarterPack/MilitarDroid/MilitarDroid_wire.MilitarDroid_wire
+	Asset Name: /Game/AnimStarterPack/MilitarDroid/MilitarDroid_waist.MilitarDroid_waist
+	Asset Name: /Game/AnimStarterPack/MilitarDroid/MilitarDroid_boots.MilitarDroid_boots
+	Asset Name: /Game/AnimStarterPack/MilitarDroid/MilitarDroid_wrist.MilitarDroid_wrist
+[2021.07.17-17.20.14:731][965]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AnimStarterPack/MilitarDroid/MilitarDroid_neck collar_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2021.07.17-17.20.14:731][965]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AnimStarterPack/MilitarDroid/MilitarDroid_neck collar_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2021.07.17-17.20.14:731][965]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AnimStarterPack/MilitarDroid/MilitarDroid_chest plate_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2021.07.17-17.20.14:731][965]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AnimStarterPack/MilitarDroid/MilitarDroid_chest plate_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2021.07.17-17.20.15:388][965]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AnimStarterPack/MilitarDroid/MilitarDroid_chest plate_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2021.07.17-17.20.15:391][965]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AnimStarterPack/MilitarDroid/MilitarDroid_chest plate_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2021.07.17-17.20.15:393][965]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AnimStarterPack/MilitarDroid/MilitarDroid_neck collar_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2021.07.17-17.20.15:395][965]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AnimStarterPack/MilitarDroid/MilitarDroid_neck collar_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2021.07.17-17.20.15:471][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.07.17-17.21.18:703][862]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/PlayerPawn.PlayerPawn
+[2021.07.17-17.21.19:122][862]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2021.07.17-17.21.21:674][ 45]LogSlate: Took 0.005728 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.07.17-17.21.54:686][837]LogHotReload: New module detected: UE4Editor-CoopGame-0043.dll
+[2021.07.17-17.21.55:370][840]LogHotReload: Starting Hot-Reload from IDE
+[2021.07.17-17.21.55:423][840]LogClass: Could not find existing class SHealthComponent in package /Script/CoopGame for HotReload, assuming new class
+[2021.07.17-17.21.55:438][840]LogHotReload: Re-instancing SHealthComponent after hot-reload.
+[2021.07.17-17.21.55:461][840]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'CoopGame' in 0.0004 seconds. Added 5 classes and 2 folders.
+[2021.07.17-17.21.55:467][840]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.07.17-17.21.55:530][840]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0092 seconds. Added 3615 classes and 866 folders.
+[2021.07.17-17.21.55:537][840]Display: HotReload took  0.2s.
+[2021.07.17-17.22.23:321][254]BlueprintLog: New page: Compile PlayerPawn
+[2021.07.17-17.22.23:391][254]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.07.17-17.22.23:430][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerPawn" FILE="E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Content/Blueprints/PlayerPawn.uasset" SILENT=true
+[2021.07.17-17.22.23:439][254]LogSavePackage: Moving 'E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/PlayerPawn5FCBFE5640A26C6F8C9920B5A1994B55.tmp' to 'E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Content/Blueprints/PlayerPawn.uasset'
+[2021.07.17-17.22.23:451][254]AssetCheck: New page: Asset Save: PlayerPawn
+[2021.07.17-17.22.23:452][254]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/PlayerPawn.PlayerPawn
+[2021.07.17-17.22.24:153][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerPawn" FILE="E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Content/Blueprints/PlayerPawn.uasset" SILENT=true
+[2021.07.17-17.22.24:157][324]LogSavePackage: Moving 'E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/PlayerPawnA607AF7941513DB52FEF5EAB6381B94B.tmp' to 'E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Content/Blueprints/PlayerPawn.uasset'
+[2021.07.17-17.22.24:167][324]AssetCheck: New page: Asset Save: PlayerPawn
+[2021.07.17-17.22.24:168][324]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/PlayerPawn.PlayerPawn
+[2021.07.17-17.28.47:132][149]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2021.07.17-17.28.47:133][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Map1" FILE="E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Autosaves/Game/Levels/Map1_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.07.17-17.28.47:138][149]LogSavePackage: Moving 'E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Map1_Auto2200175A94AB088F1053E13AF4B5A6A03.tmp' to 'E:/osvaldo/UnrealProjects/CoopGame/CoopGame/Saved/Autosaves/Game/Levels/Map1_Auto2.umap'
+[2021.07.17-17.28.47:139][149]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Map1' took 0.034
+[2021.07.17-17.28.47:139][149]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.034
+[2021.07.17-17.39.19:063][ 34]LogHotReload: New module detected: UE4Editor-CoopGame-0044.dll
+[2021.07.17-17.39.19:739][ 37]LogHotReload: Starting Hot-Reload from IDE
+[2021.07.17-17.39.19:793][ 37]LogClass: Could not find existing class SHealthComponent in package /Script/CoopGame for HotReload, assuming new class
+[2021.07.17-17.39.19:809][ 37]LogHotReload: Re-instancing SHealthComponent after hot-reload.
+[2021.07.17-17.39.19:835][ 37]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'CoopGame' in 0.0003 seconds. Added 5 classes and 2 folders.
+[2021.07.17-17.39.19:839][ 37]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.07.17-17.39.19:928][ 37]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0077 seconds. Added 3615 classes and 866 folders.
+[2021.07.17-17.39.19:934][ 37]Display: HotReload took  0.2s.
+[2021.07.17-17.39.47:557][944]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.17-17.39.49:035][114]Cmd: SELECT NONE
+[2021.07.17-17.39.55:162][792]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.17-17.39.55:171][792]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.17-17.39.55:171][792]PIE: New page: PIE session: Map1 (Jul 17, 2021, 9:39:55 AM)
+[2021.07.17-17.39.55:176][792]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.07.17-17.39.55:178][792]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.07.17-17.39.55:179][792]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Map1
+[2021.07.17-17.39.55:183][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003362s)
+[2021.07.17-17.39.55:184][792]LogAIModule: Creating AISystem for world Map1
+[2021.07.17-17.39.55:185][792]LogPlayLevel: PIE: World Init took: (0.001718s)
+[2021.07.17-17.39.55:185][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Map1.Map1 to /Game/Levels/UEDPIE_0_Map1.Map1 (0.005747s)
+[2021.07.17-17.39.55:248][792]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2021.07.17-17.39.55:252][792]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.07.17-17.39.55:252][792]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.17-17.39.55:252][792]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.17-17.39.55:252][792]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.17-17.39.55:252][792]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.17-17.39.55:252][792]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.17-17.39.55:252][792]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.17-17.39.55:252][792]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.17-17.39.55:252][792]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.17-17.39.55:252][792]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.17-17.39.55:252][792]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.17-17.39.55:262][792]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.17-17.39.55:262][792]LogAudioMixer: Display: 1: FrontRight
+[2021.07.17-17.39.55:274][792]LogAudioMixer: Display: Using Audio Device Headphones (3- TAOTRONICS SoundSurge 60 Stereo)
+[2021.07.17-17.39.55:274][792]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.17-17.39.55:274][792]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.17-17.39.55:274][792]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.17-17.39.55:274][792]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.17-17.39.55:274][792]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.17-17.39.55:274][792]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.17-17.39.55:286][792]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.17-17.39.55:286][792]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.17-17.39.55:286][792]LogInit: FAudioDevice initialized.
+[2021.07.17-17.39.55:286][792]LogAudio: Display: Audio Device (ID: 2) registered with world 'Map1'.
+[2021.07.17-17.39.55:298][792]LogLoad: Game class is 'GameModeBase'
+[2021.07.17-17.39.55:300][792]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Map1.Map1 up for play (max tick rate 0) at 2021.07.17-13.39.55
+[2021.07.17-17.39.55:308][792]LogWorld: Bringing up level for play took: 0.009948
+[2021.07.17-17.39.55:309][792]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2021.07.17-17.39.55:345][792]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2021.07.17-17.39.55:348][792]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.07.17-17.39.56:324][792]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.976 s
+[2021.07.17-17.39.56:324][792]LogOutputDevice: Error: === Handled ensure: ===
+[2021.07.17-17.39.56:324][792]LogOutputDevice: Error: 
+[2021.07.17-17.39.56:324][792]LogOutputDevice: Error: Ensure condition failed: this->IsBound() [File:C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Delegates/DelegateSignatureImpl.inl] [Line: 1028]
+[2021.07.17-17.39.56:324][792]LogOutputDevice: Error: Unable to bind delegate to 'HandleTakeAnyDamage' (function might not be marked as a UFUNCTION or object may be pending kill)
+[2021.07.17-17.39.56:324][792]LogOutputDevice: Error: Stack: 
+[2021.07.17-17.39.56:324][792]LogOutputDevice: Error: [Callstack] 0x00007ffc01bec238 UE4Editor-CoopGame-0044.dll!DispatchCheckVerify<bool,<lambda_832d76054e4339be90b69fe7c9ea6b6e> >() [C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc\AssertionMacros.h:164]
+[2021.07.17-17.39.56:324][792]LogOutputDevice: Error: [Callstack] 0x00007ffc01be4eb4 UE4Editor-CoopGame-0044.dll!USHealthComponent::BeginPlay() [E:\osvaldo\UnrealProjects\CoopGame\CoopGame\Source\CoopGame\SHealthComponent.cpp:19]
+[2021.07.17-17.39.56:324][792]LogOutputDevice: Error: [Callstack] 0x00007ffba22caf92 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.17-17.39.56:324][792]LogOutputDevice: Error: [Callstack] 0x00007ffc01be39d0 UE4Editor-CoopGame-0044.dll!ASCharacter::BeginPlay() [E:\osvaldo\UnrealProjects\CoopGame\CoopGame\Source\CoopGame\SCharacter.cpp:29]
+[2021.07.17-17.39.56:325][792]LogOutputDevice: Error: [Callstack] 0x00007ffba22d443c UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.17-17.39.56:325][792]LogOutputDevice: Error: [Callstack] 0x00007ffba36aec42 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.17-17.39.56:325][792]LogOutputDevice: Error: [Callstack] 0x00007ffba2a25fa1 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.17-17.39.56:325][792]LogOutputDevice: Error: [Callstack] 0x00007ffba365344e UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.17-17.39.56:325][792]LogOutputDevice: Error: [Callstack] 0x00007ffba2a47f8d UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.17-17.39.56:325][792]LogOutputDevice: Error: [Callstack] 0x00007ffba069a1a5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.17-17.39.56:325][792]LogOutputDevice: Error: [Callstack] 0x00007ffba06bcd6f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.17-17.39.56:325][792]LogOutputDevice: Error: [Callstack] 0x00007ffba069aedd UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.17-17.39.56:325][792]LogOutputDevice: Error: [Callstack] 0x00007ffba06d8c42 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.17-17.39.56:325][792]LogOutputDevice: Error: [Callstack] 0x00007ffba06dc1d1 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.17-17.39.56:325][792]LogOutputDevice: Error: [Callstack] 0x00007ffba06dba98 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.17-17.39.56:325][792]LogOutputDevice: Error: [Callstack] 0x00007ffba0138c38 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.17-17.39.56:325][792]LogOutputDevice: Error: [Callstack] 0x00007ffba0a550e6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.17-17.39.56:325][792]LogOutputDevice: Error: [Callstack] 0x00007ff7c1d39bc2 UE4Editor.exe!UnknownFunction []
+[2021.07.17-17.39.56:325][792]LogOutputDevice: Error: [Callstack] 0x00007ff7c1d5117c UE4Editor.exe!UnknownFunction []
+[2021.07.17-17.39.56:325][792]LogOutputDevice: Error: [Callstack] 0x00007ff7c1d5125a UE4Editor.exe!UnknownFunction []
+[2021.07.17-17.39.56:326][792]LogOutputDevice: Error: [Callstack] 0x00007ff7c1d652bd UE4Editor.exe!UnknownFunction []
+[2021.07.17-17.39.56:326][792]LogOutputDevice: Error: [Callstack] 0x00007ff7c1d67fea UE4Editor.exe!UnknownFunction []
+[2021.07.17-17.39.56:326][792]LogOutputDevice: Error: [Callstack] 0x00007ffc07177034 KERNEL32.DLL!UnknownFunction []
+[2021.07.17-17.39.56:326][792]LogOutputDevice: Error: [Callstack] 0x00007ffc086e2651 ntdll.dll!UnknownFunction []
+[2021.07.17-17.39.56:326][792]LogOutputDevice: Error: 
